@@ -1,0 +1,109 @@
+datasets-package - El paquete de conjuntos de datos R
+ability.cov - Pruebas de habilidad e inteligencia
+airmiles - Millas de pasajeros en aerolíneas comerciales de EE. UU., 1937-1960
+AirPassengers - Números mensuales de pasajeros de líneas aéreas 1949-1960
+airquality - Mediciones de la calidad del aire de Nueva York
+anscombe - El cuarteto de Anscombe de regresiones lineales simples 'idénticas'
+attenu - Los datos de atenuación de Joyner-Boore
+attitude - Los datos de actitud de Chatterjee-Price
+austres - Serie temporal trimestral del número de residentes australianos
+beaver1 - Serie de temperatura corporal de dos castores
+beaver2 - Serie de temperatura corporal de dos castores
+beavers - Serie de temperatura corporal de dos castores
+BJsales - Datos de ventas con indicador principal
+BJsales.lead - Datos de ventas con indicador principal
+BOD - Demanda bioquímica de oxígeno
+cars - Velocidad y distancias de frenado de los automóviles
+ChickWeight - Peso versus edad de los pollitos con diferentes dietas
+chickwts - Pesos de pollo por tipo de alimento
+CO2 - Absorción de dióxido de carbono en plantas de pasto
+co2 - Concentración atmosférica de CO2 en Mauna Loa
+crimtab - Datos de los 3000 delincuentes del estudiante
+datasets - El paquete de conjuntos de datos R
+discoveries - Números anuales de descubrimientos importantes
+DNase - Ensayo Elisa de DNasa
+esoph - Tabaquismo, alcohol y cáncer (O)esofágico
+euro - Tipos de conversión de monedas en euros
+euro.cross - Tipos de conversión de monedas en euros
+eurodist - Distancias entre ciudades europeas y entre ciudades de EE. UU.
+EuStockMarkets - Precios de cierre diarios de los principales índices bursátiles europeos, 1991-1998
+faithful - Datos del géiser Old Faithful
+fdeaths - Muertes mensuales por enfermedades pulmonares en el Reino Unido
+Formaldehyde - Determinación de formaldehído
+freeny - Datos de ingresos de Freeny
+freeny.x - Datos de ingresos de Freeny
+freeny.y - Datos de ingresos de Freeny
+HairEyeColor - Color de cabello y ojos de estudiantes de estadística.
+Harman23.cor - Ejemplo Harman 2.3
+Harman74.cor - Ejemplo Harman 7.4
+Indometh - Farmacocinética de la indometacina
+infert - Infertilidad después del aborto espontáneo e inducido
+InsectSprays - Efectividad de los aerosoles contra insectos
+iris - Datos del iris de Edgar Anderson
+iris3 - Datos del iris de Edgar Anderson
+islands - Áreas de las principales masas terrestres del mundo
+JohnsonJohnson - Ganancias trimestrales por acción de Johnson & Johnson
+LakeHuron - Nivel del lago Hurón 1875-1972
+ldeaths - Muertes mensuales por enfermedades pulmonares en el Reino Unido
+lh - Hormona luteinizante en muestras de sangre
+LifeCycleSavings - Datos de ahorro del ciclo de vida entre países
+Loblolly - Crecimiento de pinos taedos
+longley - Datos de regresión económica de Longley
+lynx - Adornos anuales de lince canadiense 1821-1934
+mdeaths - Muertes mensuales por enfermedades pulmonares en el Reino Unido
+morley - Datos de la velocidad de la luz de Michelson
+mtcars - Pruebas en carretera de coches de Motor Trend
+nhtemp - Temperaturas promedio anuales en New Haven
+Nile - Flujo del río Nilo
+nottem - Temperaturas mensuales promedio en Nottingham, 1920-1939
+npk - Experimento factorial clásico N, P, K
+occupationalStatus - Situación ocupacional de los padres y sus hijos
+Orange - Crecimiento de naranjos
+OrchardSprays - Potencia de los aerosoles para huertos
+PlantGrowth - Resultados de un experimento sobre crecimiento vegetal
+precip - Precipitación anual en ciudades de EE. UU.
+presidents - Calificaciones de aprobación trimestrales de los presidentes de EE. UU.
+pressure - Presión de vapor de mercurio en función de la temperatura
+Puromycin - Velocidad de reacción de una reacción enzimática
+quakes - Ubicaciones de terremotos frente a Fiji
+randu - Números aleatorios del generador congruencial RANDU
+rivers - Longitudes de los principales ríos de América del Norte
+rock - Mediciones en muestras de rocas petroleras
+Seatbelts - Víctimas en carreteras en Gran Bretaña 1969-84
+sleep - Datos del sueño del estudiante
+stack.loss - Datos de la planta de pérdida de pila de Brownlee
+stack.x - Datos de la planta de pérdida de pila de Brownlee
+stackloss - Datos de la planta de pérdida de pila de Brownlee
+state - Datos y cifras del estado de EE. UU.
+state.abb - Datos y cifras del estado de EE. UU.
+state.area - Datos y cifras del estado de EE. UU.
+state.center - Datos y cifras del estado de EE. UU.
+state.division - Datos y cifras del estado de EE. UU.
+state.name - Datos y cifras del estado de EE. UU.
+state.region - Datos y cifras del estado de EE. UU.
+state.x77 - Datos y cifras del estado de EE. UU.
+sunspot.month - Datos mensuales de manchas solares, desde 1749 hasta el "presente"
+sunspot.year - Datos anuales de manchas solares, 1700-1988
+sunspots - Números mensuales de manchas solares, 1749-1983
+swiss - Datos de indicadores socioeconómicos y de fertilidad de Suiza (1888)
+Theoph - Farmacocinética de la teofilina
+Titanic - Supervivencia de los pasajeros del Titanic.
+ToothGrowth - El efecto de la vitamina C sobre el crecimiento de los dientes en cobayas
+treering - Datos anuales de arborización, -6000-1979
+trees - Diámetro, altura y volumen de los cerezos negros
+UCBAdmissions - Admisiones de estudiantes en UC Berkeley
+UKDriverDeaths - Víctimas en carreteras en Gran Bretaña 1969-84
+UKgas - Consumo trimestral de gas en el Reino Unido
+UKLungDeaths - Muertes mensuales por enfermedades pulmonares en el Reino Unido
+USAccDeaths - Muertes accidentales en EE. UU. 1973-1978
+USArrests - Tasas de delitos violentos por estado de EE. UU.
+UScitiesD - Distancias entre ciudades europeas y entre ciudades de EE. UU.
+USJudgeRatings - Calificaciones de los abogados sobre los jueces estatales del Tribunal Superior de EE. UU.
+USPersonalExpenditure - Datos de gastos personales
+uspop - Poblaciones registradas por el censo de EE. UU.
+VADeaths - Tasas de mortalidad en Virginia (1940)
+volcano - Información topográfica sobre el volcán Maunga Whau de Auckland
+warpbreaks - El número de roturas del hilo durante el tejido
+women - Alturas y pesos promedio de las mujeres estadounidenses
+WorldPhones - Los teléfonos del mundo
+WWWusage - Uso de Internet por minuto

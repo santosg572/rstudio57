@@ -1,0 +1,179 @@
+grDevices-package - Los dispositivos gráficos R y la compatibilidad con colores y fuentes
+adjustcolor - Ajuste los colores en una o más direcciones cómodamente.
+as.graphicsAnnot - Forzar un objeto para la anotación de gráficos
+as.raster - Crear un objeto ráster
+as.raster.array - Crear un objeto ráster
+as.raster.character - Crear un objeto ráster
+as.raster.logical - Crear un objeto ráster
+as.raster.matrix - Crear un objeto ráster
+as.raster.numeric - Crear un objeto ráster
+as.raster.raw - Crear un objeto ráster
+atop - Anotación matemática en R
+axisTicks - Calcular escalas de ticks Pretty Axis
+bar - Anotación matemática en R
+bgroup - Anotación matemática en R
+bitmap - Dispositivo de gráficos para archivos de mapa de bits a través de Ghostscript
+blues9 - Colores para gráficos de densidad suave
+bmp - Dispositivos gráficos BMP, JPEG, PNG y TIFF
+bold - Anotación matemática en R
+bolditalic - Anotación matemática en R
+boxplot.stats - Estadísticas de diagrama de caja
+bringToTop - Asignar foco a una ventana
+cairoSymbolFont - Especificar una fuente de símbolo
+cairo_pdf - Dispositivos gráficos SVG, PDF y PostScript basados ​​en Cairographics
+cairo_ps - Dispositivos gráficos SVG, PDF y PostScript basados ​​en Cairographics
+check.options - Establecer opciones con comprobaciones de coherencia
+chull - Calcular el casco convexo de un conjunto de puntos
+CIDFont - Fuentes tipo 1 y CID
+cm - Transformación de unidades
+cm.colors - Paletas de colores
+col2rgb - Conversión de color a RGB
+colorConverter - Crea espacios de color
+colorRamp - Interpolación de colores
+colorRampPalette - Interpolación de colores
+colors - Nombres de colores
+colorspaces - Convertir entre espacios de color
+colours - Nombres de colores
+contourLines - Calcular líneas de contorno
+convertColor - Convertir entre espacios de color
+densCols - Colores para gráficos de densidad suave
+dev.capabilities - Capacidades de consulta del dispositivo gráfico actual
+dev.capture - Capturar la salida del dispositivo como una imagen rasterizada
+dev.control - Copie gráficos entre varios dispositivos
+dev.copy - Copie gráficos entre varios dispositivos
+dev.copy2eps - Copie gráficos entre varios dispositivos
+dev.copy2pdf - Copie gráficos entre varios dispositivos
+dev.cur - Controle múltiples dispositivos
+dev.flush - Mantenga o vacíe la salida en un dispositivo de gráficos en pantalla.
+dev.hold - Mantenga o vacíe la salida en un dispositivo de gráficos en pantalla.
+dev.interactive - ¿Es interactivo el dispositivo gráfico actual?
+dev.list - Controle múltiples dispositivos
+dev.new - Controle múltiples dispositivos
+dev.next - Controle múltiples dispositivos
+dev.off - Controle múltiples dispositivos
+dev.prev - Controle múltiples dispositivos
+dev.print - Copie gráficos entre varios dispositivos
+dev.set - Controle múltiples dispositivos
+dev.size - Buscar el tamaño de la superficie del dispositivo
+dev2bitmap - Dispositivo de gráficos para archivos de mapa de bits a través de Ghostscript
+devAskNewPage - Preguntar antes de nueva página
+device - Lista de dispositivos gráficos
+deviceIsInteractive - ¿Es interactivo el dispositivo gráfico actual?
+Devices - Lista de dispositivos gráficos
+displaystyle - Anotación matemática en R
+dot - Anotación matemática en R
+embedFonts - Incrustar fuentes en PostScript y PDF
+embedGlyphs - Incrustar fuentes en PostScript y PDF
+extendrange - Ampliar un rango numérico en un pequeño porcentaje
+frac - Anotación matemática en R
+getGraphicsEvent - Espere un evento de mouse o teclado desde una ventana gráfica
+getGraphicsEventEnv - Espere un evento de mouse o teclado desde una ventana gráfica
+glyphAnchor - Describir un conjunto de glifos tipográficos.
+glyphFont - Describir un conjunto de glifos tipográficos.
+glyphFontList - Describir un conjunto de glifos tipográficos.
+glyphHeight - Describir un conjunto de glifos tipográficos.
+glyphHeightBottom - Describir un conjunto de glifos tipográficos.
+glyphInfo - Describir un conjunto de glifos tipográficos.
+glyphJust - Describir un conjunto de glifos tipográficos.
+glyphJust.character - Describir un conjunto de glifos tipográficos.
+glyphJust.GlyphJust - Describir un conjunto de glifos tipográficos.
+glyphJust.numeric - Describir un conjunto de glifos tipográficos.
+glyphWidth - Describir un conjunto de glifos tipográficos.
+glyphWidthLeft - Describir un conjunto de glifos tipográficos.
+graphics.off - Controle múltiples dispositivos
+gray - Especificación de nivel de gris
+gray.colors - Paleta de colores grises
+grDevices - Los dispositivos gráficos R y la compatibilidad con colores y fuentes
+grey - Especificación de nivel de gris
+grey.colors - Paleta de colores grises
+group - Anotación matemática en R
+grSoftVersion - Versiones de informes del software de gráficos
+hat - Anotación matemática en R
+hcl - Especificación de color HCL
+hcl.colors - Paletas de colores
+hcl.pals - Paletas de colores
+heat.colors - Paletas de colores
+Hershey - Fuentes vectoriales Hershey en R
+hsv - Especificación de color HSV
+inf - Anotación matemática en R
+integral - Anotación matemática en R
+is.raster - Crear un objeto ráster
+italic - Anotación matemática en R
+Japanese - Caracteres japoneses en R
+jpeg - Dispositivos gráficos BMP, JPEG, PNG y TIFF
+make.rgb - Crea espacios de color
+msgWindow - Manipular una ventana
+n2mfrow - Calcular el 'mfrow' predeterminado a partir del número de parcelas
+nclass.FD - Calcular el número de clases para un histograma
+nclass.scott - Calcular el número de clases para un histograma
+nclass.Sturges - Calcular el número de clases para un histograma
+over - Anotación matemática en R
+palette - Establecer o ver la paleta de gráficos
+palette.colors - Establecer o ver la paleta de gráficos
+palette.pals - Establecer o ver la paleta de gráficos
+pdf - Dispositivo de gráficos PDF
+pdf.options - Función auxiliar para configurar/ver valores predeterminados para argumentos de pdf
+pdfFonts - Familias de fuentes PostScript y PDF
+phantom - Anotación matemática en R
+pictex - Un controlador de gráficos PicTeX
+plain - Anotación matemática en R
+plotmath - Anotación matemática en R
+png - Dispositivos gráficos BMP, JPEG, PNG y TIFF
+postscript - Gráficos PostScript
+postscriptFonts - Familias de fuentes PostScript y PDF
+pretty.Date - Bonitos puntos de interrupción para las clases de fecha y hora
+pretty.POSIXt - Bonitos puntos de interrupción para las clases de fecha y hora
+print.recordedplot - Grabar y reproducir tramas
+print.SavedPlots - Dispositivos gráficos de Windows
+ps.options - Función auxiliar para establecer/ver valores predeterminados para argumentos de posdata
+quartz - Dispositivo de cuarzo macOS
+quartz.options - Dispositivo de cuarzo macOS
+quartz.save - Dispositivo de cuarzo macOS
+quartzFont - Configuración de fuentes de cuarzo
+quartzFonts - Configuración de fuentes de cuarzo
+rainbow - Paletas de colores
+recordGraphics - Grabar operaciones de gráficos
+recordPlot - Grabar y reproducir tramas
+replayPlot - Grabar y reproducir tramas
+rgb - Especificación de color RGB
+rgb2hsv - Conversión de RGB a HSV
+ring - Anotación matemática en R
+savePlot - Guarde la trama de Cairo X11 en un archivo
+scriptscriptstyle - Anotación matemática en R
+scriptstyle - Anotación matemática en R
+setEPS - Función auxiliar para establecer/ver valores predeterminados para argumentos de posdata
+setGraphicsEventEnv - Espere un evento de mouse o teclado desde una ventana gráfica
+setGraphicsEventHandlers - Espere un evento de mouse o teclado desde una ventana gráfica
+setPS - Función auxiliar para establecer/ver valores predeterminados para argumentos de posdata
+stayOnTop - Asignar foco a una ventana
+sup - Anotación matemática en R
+svg - Dispositivos gráficos SVG, PDF y PostScript basados ​​en Cairographics
+symbol - Anotación matemática en R
+terrain.colors - Paletas de colores
+textstyle - Anotación matemática en R
+tiff - Dispositivos gráficos BMP, JPEG, PNG y TIFF
+topo.colors - Paletas de colores
+trans3d - Transformación de 3D a 2D para gráficos en perspectiva
+Type1Font - Fuentes tipo 1 y CID
+underline - Anotación matemática en R
+widehat - Anotación matemática en R
+widetilde - Anotación matemática en R
+win.graph - Dispositivos gráficos de Windows
+win.metafile - Dispositivos gráficos de Windows
+win.print - Dispositivos gráficos de Windows
+windows - Dispositivos gráficos de Windows
+windows.options - Función auxiliar para establecer/ver valores predeterminados para argumentos de windows()
+windowsFont - Fuentes de Windows
+windowsFonts - Fuentes de Windows
+X11 - Gráficos del sistema X Window (X11)
+x11 - Gráficos del sistema X Window (X11)
+X11.options - Gráficos del sistema X Window (X11)
+X11Font - Fuentes X11
+X11Fonts - Fuentes X11
+xfig - Dispositivo gráfico XFig
+xy.coords - Extracción de estructuras de trazado
+xyTable - Multiplicidades de puntos (x,y), por ejemplo, para un diagrama de girasol
+xyz.coords - Extracción de estructuras de trazado
+.axisPars - Calcular escalas de ticks Pretty Axis
+.ps.prolog - Gráficos PostScript
+[.SavedPlots - Dispositivos gráficos de Windows

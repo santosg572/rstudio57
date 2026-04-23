@@ -1,0 +1,313 @@
+utils-package - El paquete de utilidades R
+adist - Distancias aproximadas de las cuerdas
+alarm - Alertar al usuario
+apropos - Buscar objetos por nombre (parcial)
+aregexec - Posiciones aproximadas de coincidencia de cuerdas
+argsAnywhere - Recuperar un objeto R, incluso desde un espacio de nombres
+arrangeWindows - Reorganizar Windows en MS Windows
+as.character.person - personas
+as.person - personas
+as.personList - Colecciones de personas (interfaz anterior)
+as.relistable - Permitir volver a incluir en la lista un objeto no listado()
+as.roman - números romanos
+asDateBuilt - Descripción del paquete
+askYesNo - Haga una pregunta de Sí/No
+aspell - Interfaz de revisión ortográfica
+aspell-utils - Utilidades de revisión ortográfica
+aspell_package_C_files - Utilidades de revisión ortográfica
+aspell_package_Rd_files - Utilidades de revisión ortográfica
+aspell_package_R_files - Utilidades de revisión ortográfica
+aspell_package_vignettes - Utilidades de revisión ortográfica
+aspell_write_personal_dictionary_file - Utilidades de revisión ortográfica
+assignInMyNamespace - Funciones de utilidad para desarrollar espacios de nombres
+assignInNamespace - Funciones de utilidad para desarrollar espacios de nombres
+available.packages - Listar los paquetes disponibles en repositorios tipo CRAN
+BATCH - Ejecución por lotes de R
+bibentry - Entradas de bibliografía
+browseEnv - Explorar objetos en el entorno
+browseURL - Cargar URL en un navegador HTML
+browseVignettes - Listar viñetas en un navegador HTML
+bug.report - Enviar un informe de error
+build - Utilidades para crear y comprobar paquetes complementarios
+c.person - personas
+capture.output - Enviar salida a una cadena de caracteres o archivo
+changedFiles - Detectar qué archivos han cambiado
+charClass - Clasificación de personajes
+check - Utilidades para crear y comprobar paquetes complementarios
+checkCRAN - Gestión de espejos de repositorio
+choose.dir - Elija una carpeta de forma interactiva en MS Windows
+choose.files - Elija una lista de archivos de forma interactiva en MS Windows
+chooseBioCmirror - Seleccione un espejo bioconductor
+chooseCRANmirror - Seleccione un espejo CRAN
+CITATION - Citar paquetes R y R en publicaciones
+citation - Citar paquetes R y R en publicaciones
+cite - Citar una entrada de bibliografía
+citeNatbib - Citar una entrada de bibliografía
+citEntry - Entradas de bibliografía (interfaz anterior)
+citFooter - Citar paquetes R y R en publicaciones
+citHeader - Citar paquetes R y R en publicaciones
+clipboard - Leer/escribir en/desde el portapapeles en MS Windows
+close.socket - Cerrar un enchufe
+close.txtProgressBar - Barra de progreso del texto
+close.winProgressBar - Barras de progreso en MS Windows
+clrhash - Tablas hash (experimentales)
+combn - Genere todas las combinaciones de n elementos, tomados m a la vez
+compareVersion - Comparar dos números de versión de paquete
+COMPILE - Compile archivos para usarlos con R en sistemas similares a Unix
+completion - Un generador de finalización para R
+contrib.url - Encuentre rutas adecuadas en repositorios tipo CRAN
+count.fields - Cuente el número de campos por línea
+create.post - Función auxiliar para preparar correos electrónicos y publicaciones
+data - Conjuntos de datos
+data.entry - Interfaz de hoja de cálculo para ingresar datos
+dataentry - Interfaz de hoja de cálculo para ingresar datos
+de - Interfaz de hoja de cálculo para ingresar datos
+debugcall - Depurar una llamada
+debugger - Depuración post-mortem
+demo - Demostraciones de la funcionalidad R
+DLL.version - Información de versión de DLL en MS Windows
+download.file - Descargar archivo de Internet
+download.packages - Descargar paquetes desde repositorios tipo CRAN
+dump.frames - Depuración post-mortem
+edit - Invocar un editor de texto
+edit.data.frame - Editar marcos de datos y matrices
+edit.vignette - Ver, enumerar u obtener fuente R de viñetas de paquetes
+emacs - Invocar un editor de texto
+example - Ejecute una sección de ejemplos desde la ayuda en línea
+file.edit - Editar uno o más archivos
+fileSnapshot - Detectar qué archivos han cambiado
+file_test - Pruebas de estilo Shell en archivos
+Filters - Elija una lista de archivos de forma interactiva en MS Windows
+find - Buscar objetos por nombre (parcial)
+findCRANmirror - Encuentre la preferencia de espejo CRAN
+findLineNum - Encuentre la ubicación de una línea de código fuente o establezca un punto de interrupción allí
+findMatches - Un generador de finalización para R
+fix - arreglar un objeto
+fixInNamespace - Funciones de utilidad para desarrollar espacios de nombres
+flush.console - Vaciar salida a una consola
+format.bibentry - Entradas de bibliografía
+format.citation - Entradas de bibliografía
+format.hashtab - Tablas hash (experimentales)
+format.MethodsFunction - Métodos de lista para funciones o clases genéricas de S3
+format.object_size - Informar el espacio asignado para un objeto
+format.person - personas
+formatOL - Dar formato a listas ordenadas y desordenadas
+formatUL - Dar formato a listas ordenadas y desordenadas
+getAnywhere - Recuperar un objeto R, incluso desde un espacio de nombres
+getBioCmirrors - Seleccione un espejo bioconductor
+getClipboardFormats - Leer/escribir en/desde el portapapeles en MS Windows
+getCRANmirrors - Seleccione un espejo CRAN
+getFromNamespace - Funciones de utilidad para desarrollar espacios de nombres
+gethash - Tablas hash (experimentales)
+getIdentification - Configure el título de la ventana o la barra de estado de RGui en Windows
+getParseData - Obtener información detallada del análisis del objeto
+getParseText - Obtener información detallada del análisis del objeto
+getS3method - Obtenga un método S3
+getSrcDirectory - Utilidades de referencia de origen
+getSrcFilename - Utilidades de referencia de origen
+getSrcLocation - Utilidades de referencia de origen
+getSrcref - Utilidades de referencia de origen
+getTxtProgressBar - Barra de progreso del texto
+getWindowsHandle - Obtenga un identificador de Windows
+getWindowsHandles - Obtenga identificadores de Windows en MS Windows RGui
+getWindowTitle - Configure el título de la ventana o la barra de estado de RGui en Windows
+getWinProgressBar - Barras de progreso en MS Windows
+glob2rx - Cambie el comodín o el patrón global a una expresión regular
+globalVariables - Declaraciones utilizadas al comprobar un paquete
+hashtab - Tablas hash (experimentales)
+hasName - Comprobar nombre
+head - Devolver la primera o última parte de un objeto
+help - Documentación
+help.request - Enviar una publicación a R-help
+help.search - Buscar en el sistema de ayuda
+help.start - Documentación de hipertexto
+history - Cargar o guardar o mostrar el historial de comandos
+hsearch_db - Ayuda Búsqueda Utilidades
+hsearch_db_concepts - Ayuda Búsqueda Utilidades
+hsearch_db_keywords - Ayuda Búsqueda Utilidades
+INSTALL - Instalar paquetes complementarios
+install.packages - Instalar paquetes desde repositorios o archivos locales
+installed.packages - Buscar paquetes instalados
+is.hashtab - Tablas hash (experimentales)
+is.relistable - Permitir volver a incluir en la lista un objeto no listado()
+isS3method - ¿Es 'método' el nombre de un método S3?
+isS3stdGeneric - Compruebe si una función actúa como genérica de S3
+length.hashtab - Tablas hash (experimentales)
+limitedLabels - Depuración post-mortem
+LINK - Crear programas ejecutables en sistemas similares a Unix
+loadhistory - Cargar o guardar o mostrar el historial de comandos
+loadRconsole - Configuración de R para Windows
+localeToCharset - Seleccione un nombre de codificación adecuado a partir de un nombre local
+ls.str - Listar objetos y su estructura
+lsf.str - Listar objetos y su estructura
+maintainer - Mostrar mantenedor del paquete
+make.packages.html - Actualizar la lista de paquetes HTML
+make.socket - Crear una conexión de enchufe
+maphash - Tablas hash (experimentales)
+menu - Función de interacción del menú
+methods - Métodos de lista para funciones o clases genéricas de S3
+mirror2html - Gestión de espejos de repositorio
+mirrorAdmin - Gestión de espejos de repositorio
+modifyList - Modificar recursivamente elementos de una lista
+new.packages - Comparar paquetes instalados con repositorios tipo CRAN
+news - Crear y consultar R o información de noticias del paquete
+nsl - Busque la dirección IP por nombre de host (en sistemas Unix similares)
+numhash - Tablas hash (experimentales)
+object.size - Informar el espacio asignado para un objeto
+old.packages - Comparar paquetes instalados con repositorios tipo CRAN
+Ops.roman - números romanos
+osVersion - Recopile información sobre la sesión R actual
+package.skeleton - Crear un esqueleto para un nuevo paquete fuente
+packageDate - Descripción del paquete
+packageDescription - Descripción del paquete
+packageName - Buscar paquete asociado con un entorno
+packageStatus - Herramientas de gestión de paquetes
+packageVersion - Descripción del paquete
+page - Invocar un buscapersonas en un objeto R
+person - personas
+personList - Colecciones de personas (interfaz anterior)
+pico - Invocar un editor de texto
+print.bibentry - Entradas de bibliografía
+print.Bibtex - Conversión de objetos R a BibTeX o LaTeX
+print.browseVignettes - Listar viñetas en un navegador HTML
+print.changedFiles - Detectar qué archivos han cambiado
+print.citation - Entradas de bibliografía
+print.getAnywhere - Recuperar un objeto R, incluso desde un espacio de nombres
+print.hashtab - Tablas hash (experimentales)
+print.hsearch - Buscar en el sistema de ayuda
+print.Latex - Conversión de objetos R a BibTeX o LaTeX
+print.ls_str - Listar objetos y su estructura
+print.MethodsFunction - Métodos de lista para funciones o clases genéricas de S3
+print.news_db - Crear y consultar R o información de noticias del paquete
+print.object_size - Informar el espacio asignado para un objeto
+print.packageDescription - Descripción del paquete
+print.packageIQR - Conjuntos de datos
+print.packageStatus - Herramientas de gestión de paquetes
+print.person - personas
+print.sessionInfo - Recopile información sobre la sesión R actual
+print.socket - Crear una conexión de enchufe
+print.vignette - Ver, enumerar u obtener fuente R de viñetas de paquetes
+process.events - Manejo de eventos de activación
+prompt - Producir un prototipo de un archivo de documentación R
+promptData - Generar documentación de esquema para un conjunto de datos
+promptImport - Producir un prototipo de un archivo de documentación R
+promptPackage - Generar un Shell para la documentación de un paquete
+Question - Accesos directos a la documentación
+rc.settings - Un generador de finalización para R
+rcompgen - Un generador de finalización para R
+Rconsole - Configuración de R para Windows
+Rdevga - Configuración de R para Windows
+read.DIF - Entrada de datos desde una hoja de cálculo
+read.fortran - Leer datos de formato fijo en un estilo similar a Fortran
+read.fwf - Leer archivos con formato de ancho fijo
+read.socket - Leer o escribir en un socket
+read.table - Entrada de datos
+readCitationFile - Citar paquetes R y R en publicaciones
+readClipboard - Leer/escribir en/desde el portapapeles en MS Windows
+readRegistry - Leer una colmena del registro de Windows
+recover - Navegando después de un error
+relist - Permitir volver a incluir en la lista un objeto no listado()
+remhash - Tablas hash (experimentales)
+REMOVE - Eliminar paquetes complementarios
+remove.packages - Eliminar paquetes instalados
+removeSource - Eliminar fuente almacenada de una función u objeto de lenguaje
+RHOME - R Directorio de inicio
+Rprof - Habilitar la creación de perfiles de la ejecución de R
+Rprofmem - Habilitar la creación de perfiles del uso de la memoria de R
+Rscript - Scripting front-end para R
+RShowDoc - Mostrar manuales de R y otra documentación
+RSiteSearch - Busque palabras o frases clave en la documentación
+rtags - Una utilidad de etiquetado similar a Etags para R
+Rtangle - Controlador R para Stangle
+RtangleSetup - Controlador R para Stangle
+RweaveLatex - Controlador R/LaTeX para Sweave
+RweaveLatexSetup - Controlador R/LaTeX para Sweave
+R_AVAILABLE_PACKAGES_CACHE_CONTROL_MAX_AGE - Listar los paquetes disponibles en repositorios tipo CRAN
+R_BIOC_VERSION - Seleccionar repositorios de paquetes
+R_INSTALL_STAGED - Instalar paquetes complementarios
+R_INSTALL_TAR - Instalar paquetes complementarios
+R_REPOSITORIES - Seleccionar repositorios de paquetes
+savehistory - Cargar o guardar o mostrar el historial de comandos
+select.list - Seleccionar elementos de una lista
+sessionInfo - Recopile información sobre la sesión R actual
+setBreakpoint - Encuentre la ubicación de una línea de código fuente o establezca un punto de interrupción allí
+sethash - Tablas hash (experimentales)
+setRepositories - Seleccionar repositorios de paquetes
+setStatusBar - Configure el título de la ventana o la barra de estado de RGui en Windows
+setTxtProgressBar - Barra de progreso del texto
+setWindowTitle - Configure el título de la ventana o la barra de estado de RGui en Windows
+setWinProgressBar - Barras de progreso en MS Windows
+SHLIB - Cree un objeto compartido/DLL para carga dinámica
+shortPathName - Rutas de archivos exprés en formato breve en Windows
+sort.bibentry - Entradas de bibliografía
+stack - Apilar o desapilar vectores de un marco de datos o lista
+Stangle - Generación automática de informes
+str - Mostrar de forma compacta la estructura de un objeto R arbitrario
+str.hashtab - Tablas hash (experimentales)
+strcapture - Capturar tokens de cadena en un marco de datos
+strOptions - Mostrar de forma compacta la estructura de un objeto R arbitrario
+summary.packageStatus - Herramientas de gestión de paquetes
+Summary.roman - números romanos
+summaryRprof - Resumir el resultado de R Sampling Profiler
+suppressForeignCheck - Declaraciones utilizadas al comprobar un paquete
+Sweave - Generación automática de informes
+SweaveSyntaxLatex - Generación automática de informes
+SweaveSyntaxNoweb - Generación automática de informes
+SweaveSyntConv - Convertir sintaxis de tejido
+tail - Devolver la primera o última parte de un objeto
+tar - Crear un archivo Tar
+timestamp - Cargar o guardar o mostrar el historial de comandos
+toBibtex - Conversión de objetos R a BibTeX o LaTeX
+toBibtex.bibentry - Entradas de bibliografía
+toBibtex.person - personas
+toLatex - Conversión de objetos R a BibTeX o LaTeX
+toLatex.sessionInfo - Recopile información sobre la sesión R actual
+txtProgressBar - Barra de progreso del texto
+type.convert - Convertir datos al tipo apropiado
+type.convert.default - Convertir datos al tipo apropiado
+typhash - Tablas hash (experimentales)
+undebugcall - Depurar una llamada
+unlist.relistable - Permitir volver a incluir en la lista un objeto no listado()
+unstack - Apilar o desapilar vectores de un marco de datos o lista
+untar - Extraer o enumerar archivos Tar
+unzip - Extraer o enumerar archivos zip
+update.packages - Comparar paquetes instalados con repositorios tipo CRAN
+update.packageStatus - Herramientas de gestión de paquetes
+upgrade - Mejora
+upgrade.packageStatus - Herramientas de gestión de paquetes
+url.show - Mostrar una URL de texto
+URLdecode - Codificar o decodificar URL (parciales)
+URLencode - Codificar o decodificar URL (parciales)
+utils - El paquete de utilidades R
+utils-deprecated - Funciones obsoletas en el paquete 'utils'
+vi - Invocar un editor de texto
+View - Invocar un visor de datos
+vignette - Ver, enumerar u obtener fuente R de viñetas de paquetes
+vignettes - Ver, enumerar u obtener fuente R de viñetas de paquetes
+warnErrList - Recopilar y resumir errores de la lista
+win.version - Obtener la versión de Windows
+winDialog - Cuadros de diálogo en Windows
+winDialogString - Cuadros de diálogo en Windows
+winMenuAdd - Menús de usuario en MS Windows (Rgui)
+winMenuAddItem - Menús de usuario en MS Windows (Rgui)
+winMenuDel - Menús de usuario en MS Windows (Rgui)
+winMenuDelItem - Menús de usuario en MS Windows (Rgui)
+winMenuItems - Menús de usuario en MS Windows (Rgui)
+winMenuNames - Menús de usuario en MS Windows (Rgui)
+winProgressBar - Barras de progreso en MS Windows
+write.socket - Leer o escribir en un socket
+write.table - Salida de datos
+writeClipboard - Leer/escribir en/desde el portapapeles en MS Windows
+wsbrowser - Explorar objetos en el entorno
+xedit - Invocar un editor de texto
+xemacs - Invocar un editor de texto
+zip - Crear archivos zip
+$.person - personas
+.AtNames - Un generador de finalización para R
+.DollarNames - Un generador de finalización para R
+.romans - números romanos
+.S3methods - Métodos de lista para funciones o clases genéricas de S3
+?? - Buscar en el sistema de ayuda
+[.getAnywhere - Recuperar un objeto R, incluso desde un espacio de nombres
+[.person - personas
+[[.hashtab - Tablas hash (experimentales)

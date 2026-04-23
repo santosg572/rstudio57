@@ -1,0 +1,23 @@
+---
+title: "VARIABLES,  FUNCIONES  y  LIMITES"
+---
+
+6.  **Variables y constantes**. Una *variable* es una cantidad a la que se le puede asignar, durante el curso de un proceso de análisis, un número ilimitado de valores. Las variables se designan usualmente por las últimas letras del alfabeto.
+
+    Una cantidad que durante el curso de un proceso tiene un valor fijo se llama constante.
+
+**Constantes numéricas o absolutas** son las que conservan los mismos valores en todos los problemas, como 2, 5, $\sqrt{7}$, $\pi$ , etc.
+
+**Constantes arbitrarias, o parámetros**, son aquellas a las que se pueden asignar valores numéricos, y que durante todo el proceso conservan esos valores asignados. Usualmente se representan por las primeras letras del alfabeto.
+
+Así. en la ecuación de la recta,
+
+$$
+\frac{x}{a} + \frac{y}{b}=1 
+$$
+
+$x$ y $y$ son las coordenadas variables de un punto que se mueve sobre la línea , mientras que $a$ y $b$ son las constantes arbitrarias que representan la abscisa en el origen y la ordenada en el origen, las cuales se supone que son valores definidos para cada recta.
+
+El valor numérico (o absoluto) de una constante $a$, para diferenciarlo de su valor algebraico , se representa por $|a|$. Así, $|-2|= 2 = |2|$. El símbolo $|a|$ se lee **"valor numérico de a"** o **"valor absoluto de a"** ,.
+
+7.  Intervalo de una variable. A menudo nos limitamos solamente a una porción del sistema de números. Por ejemplo, podemos restríugir nuestra variable de manera que tome únicamente valores comprendidos entre a y b. También puede ser que a y b sean incluidos o que

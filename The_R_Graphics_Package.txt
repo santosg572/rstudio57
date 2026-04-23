@@ -1,0 +1,106 @@
+The R Graphics Package [R logo]
+[Up] [Top]
+Documentation for package ‘graphics’ version 4.3.1
+DESCRIPTION file.
+Code demos. Use demo() to run them.
+Help Pages
+graphics-package	The R Graphics Package
+.filled.contour	Level (Contour) Plots
+.Pars	Set or Query Graphical Parameters
+abline	Add Straight Lines to a Plot
+arrows	Add Arrows to a Plot
+asp	Set up World Coordinates for Graphics Window
+assocplot	Association Plots
+Axis	Generic Function to Add an Axis to a Plot
+axis	Add an Axis to a Plot
+axis.POSIXct	Date and Date-time Plotting Functions
+axTicks	Compute Axis Tickmark Locations
+barplot	Bar Plots
+box	Draw a Box around a Plot
+boxplot	Box Plots
+boxplot.matrix	Draw a Boxplot for each Column (Row) of a Matrix
+bxp	Draw Box Plots from Summaries
+cdplot	Conditional Density Plots
+clip	Set Clipping Region
+close.screen	Creating and Controlling Multiple Screens on a Single Device
+co.intervals	Conditioning Plots
+contour	Display Contours
+coplot	Conditioning Plots
+curve	Draw Function Plots
+dotchart	Cleveland's Dot Plots
+erase.screen	Creating and Controlling Multiple Screens on a Single Device
+filled.contour	Level (Contour) Plots
+fourfoldplot	Fourfold Plots
+frame	Create / Start a New Plot Frame
+graphical parameter	Set or Query Graphical Parameters
+graphical parameters	Set or Query Graphical Parameters
+graphics	The R Graphics Package
+grconvertX	Convert between Graphics Coordinate Systems
+grconvertY	Convert between Graphics Coordinate Systems
+grid	Add Grid to a Plot
+hist	Histograms
+hist.POSIXt	Histogram of a Date or Date-Time Object
+identify	Identify Points in a Scatter Plot
+image	Display a Color Image
+layout	Specifying Complex Plot Arrangements
+lcm	Specifying Complex Plot Arrangements
+legend	Add Legends to Plots
+lines	Add Connected Line Segments to a Plot
+lines.formula	Formula Notation for Scatterplots
+lines.histogram	Plot Histograms
+lines.table	Plot Methods for 'table' Objects
+locator	Graphical Input
+matlines	Plot Columns of Matrices
+matplot	Plot Columns of Matrices
+matpoints	Plot Columns of Matrices
+mosaicplot	Mosaic Plots
+mtext	Write Text into the Margins of a Plot
+pairs	Scatterplot Matrices
+panel.smooth	Simple Panel Plot
+par	Set or Query Graphical Parameters
+pch	Add Points to a Plot
+persp	Perspective Plots
+pie	Pie Charts
+plot.data.frame	Plot Method for Data Frames
+plot.default	The Default Scatterplot Function
+plot.design	Plot Univariate Effects of a Design or Model
+plot.factor	Plotting Factor Variables
+plot.formula	Formula Notation for Scatterplots
+plot.function	Draw Function Plots
+plot.histogram	Plot Histograms
+plot.new	Create / Start a New Plot Frame
+plot.raster	Plotting Raster Images
+plot.table	Plot Methods for 'table' Objects
+plot.window	Set up World Coordinates for Graphics Window
+plot.xy	Basic Internal Plot Function
+points	Add Points to a Plot
+points.formula	Formula Notation for Scatterplots
+points.table	Plot Methods for 'table' Objects
+polygon	Polygon Drawing
+polypath	Path Drawing
+rasterImage	Draw One or More Raster Images
+rect	Draw One or More Rectangles
+rug	Add a Rug to a Plot
+screen	Creating and Controlling Multiple Screens on a Single Device
+segments	Add Line Segments to a Plot
+smoothScatter	Scatterplots with Smoothed Densities Color Representation
+spineplot	Spine Plots and Spinograms
+split.screen	Creating and Controlling Multiple Screens on a Single Device
+stars	Star (Spider/Radar) Plots and Segment Diagrams
+stem	Stem-and-Leaf Plots
+strheight	Plotting Dimensions of Character Strings and Math Expressions
+stripchart	1-D Scatter Plots
+strwidth	Plotting Dimensions of Character Strings and Math Expressions
+sunflowerplot	Produce a Sunflower Scatter Plot
+symbols	Draw Symbols (Circles, Squares, Stars, Thermometers, Boxplots)
+text	Add Text to a Plot
+text.formula	Formula Notation for Scatterplots
+title	Plot Annotation
+xinch	Graphical Units
+xlim	Set up World Coordinates for Graphics Window
+xspline	Draw an X-spline
+xyinch	Graphical Units
+yinch	Graphical Units
+ylim	Set up World Coordinates for Graphics Window
+
+

@@ -1,0 +1,48 @@
+
+
+
+
+
+
+ç
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+from deep_translator import GoogleTranslator
+
+file = 'The_R_Base_Package.txt'
+
+fil = open(file, 'r')
+
+datos = fil.readlines()
+
+for ss in datos:
+  ss = ss.replace('\n','')
+  i = ss.find("\t")  
+  if i>1:
+    ss2 = ss[0:i]
+    ss3 = ss[i:]
+    translated = GoogleTranslator(source='en', target='es').translate(ss3)
+    print(ss2+' - '+translated)
+
+
+

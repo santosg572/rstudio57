@@ -1,0 +1,316 @@
+Formal Methods and Classes [R logo]
+[Up] [Top]
+Documentation for package ‘methods’ version 4.3.1
+DESCRIPTION file.
+Help Pages
+A B C D E F G H I L M N O P R S T U V W misc
+
+methods-package	Formal Methods and Classes
+-- A --
+activeBindingFunction-class	Objects With Fields Treated by Reference (OOP-style)
+anova-class	Register Old-Style (S3) Classes and Inheritance
+anova.glm-class	Register Old-Style (S3) Classes and Inheritance
+anova.glm.null-class	Register Old-Style (S3) Classes and Inheritance
+ANY-class	Classes Corresponding to Basic Data Types
+aov-class	Register Old-Style (S3) Classes and Inheritance
+Arith	S4 Group Generic Functions
+array-class	Classes Corresponding to Basic Structures
+as	Force an Object to Belong to a Class
+as<-	Force an Object to Belong to a Class
+-- B --
+body<--method	Class MethodsList, Defunct Representation of Methods
+builtin-class	Classes Corresponding to Basic Data Types
+-- C --
+call-class	Classes to Represent Unevaluated Language Objects
+callGeneric	Call the Current Generic Function from a Method
+callNextMethod	Call an Inherited Method
+canCoerce	Can an Object be Coerced to a Certain S4 Class?
+cbind2	Combine two Objects by Columns or Rows
+cbind2-method	Combine two Objects by Columns or Rows
+cbind2-methods	Combine two Objects by Columns or Rows
+character-class	Classes Corresponding to Basic Data Types
+Classes	S4 Class Documentation
+classesToAM	Compute an Adjacency Matrix for Superclasses of Class Definitions
+Classes_Details	Class Definitions
+classGeneratorFunction-class	Create a Class Definition
+className	Class names including the corresponding package
+className-class	Class names including the corresponding package
+classRepresentation-class	Class Objects
+ClassUnionRepresentation-class	Classes Defined as the Union of Other Classes
+coerce	Methods for Coercing an Object to a Class
+coerce-method	S4 Classes that Contain S3 Classes
+coerce-method	Methods for Coercing an Object to a Class
+coerce-methods	Methods for Coercing an Object to a Class
+coerce<-	Methods for Coercing an Object to a Class
+Compare	S4 Group Generic Functions
+Complex	S4 Group Generic Functions
+complex-class	Classes Corresponding to Basic Data Types
+-- D --
+data.frame-class	Register Old-Style (S3) Classes and Inheritance
+data.frameRowLabels-class	Register Old-Style (S3) Classes and Inheritance
+Date-class	Register Old-Style (S3) Classes and Inheritance
+defaultBindingFunction-class	Objects With Fields Treated by Reference (OOP-style)
+density-class	Register Old-Style (S3) Classes and Inheritance
+derivedDefaultMethodWithTrace-class	Classes Used Internally to Control Tracing
+Documentation	Using and Creating On-line Documentation for Classes and Methods
+Documentation-class	Using and Creating On-line Documentation for Classes and Methods
+Documentation-methods	Using and Creating On-line Documentation for Classes and Methods
+dotsMethods	The Use of '...' in Method Signatures
+double-class	Classes Corresponding to Basic Data Types
+dump.frames-class	Register Old-Style (S3) Classes and Inheritance
+dumpMethod	Tools for Managing Generic Functions
+dumpMethods	Tools for Managing Generic Functions
+-- E --
+environment-class	Class '"environment"'
+envRefClass-class	Class '"envRefClass"'
+evalOnLoad	Set Actions For Package Loading
+evalqOnLoad	Set Actions For Package Loading
+evalSource	Use Function Definitions from a Source File without Reinstalling a Package
+existsMethod	Get or Test for the Definition of a Method
+expression-class	Classes Corresponding to Basic Data Types
+extends	Is an Object from a Class?
+externalptr-class	Classes Corresponding to Basic Data Types
+externalRefMethod	Objects With Fields Treated by Reference (OOP-style)
+externalRefMethod-class	Objects With Fields Treated by Reference (OOP-style)
+-- F --
+factor-class	Register Old-Style (S3) Classes and Inheritance
+findClass	Find Class Definitions
+findFunction	Tools for Managing Generic Functions
+findMethod	Get or Test for the Definition of a Method
+findMethods	Description of the Methods Defined for a Generic Function
+findMethodSignatures	Description of the Methods Defined for a Generic Function
+fixPre1.8	Fix Objects Saved from R Versions Previous to 1.8
+for-class	Classes to Represent Unevaluated Language Objects
+formula-class	Register Old-Style (S3) Classes and Inheritance
+function-class	Classes Corresponding to Basic Data Types
+functionWithTrace-class	Classes Used Internally to Control Tracing
+-- G --
+genericFunction-class	Generic Function Objects
+GenericFunctions	Tools for Managing Generic Functions
+genericFunctionWithTrace-class	Classes Used Internally to Control Tracing
+getClass	Get Class Definition
+getClassDef	Get Class Definition
+getClasses	Find Class Definitions
+getGenerics	Tools for Managing Generic Functions
+getLoadActions	Set Actions For Package Loading
+getMethod	Get or Test for the Definition of a Method
+getMethods	Description of the Methods Defined for a Generic Function
+getPackageName	The Name associated with a Given Package
+getRefClass	Objects With Fields Treated by Reference (OOP-style)
+getSlots	The Slots in an Object from a Formal Class
+getValidity	Test the Validity of an Object
+glm-class	Register Old-Style (S3) Classes and Inheritance
+glm.null-class	Register Old-Style (S3) Classes and Inheritance
+groupGenericFunction-class	Generic Function Objects
+GroupGenericFunctions	S4 Group Generic Functions
+groupGenericFunctionWithTrace-class	Classes Used Internally to Control Tracing
+-- H --
+hasArg	Look for an Argument in the Call
+hasLoadAction	Set Actions For Package Loading
+hasMethod	Get or Test for the Definition of a Method
+hasMethods	Description of the Methods Defined for a Generic Function
+hsearch-class	Register Old-Style (S3) Classes and Inheritance
+-- I --
+if-class	Classes to Represent Unevaluated Language Objects
+implicit generic	Manage Implicit Versions of Generic Functions
+implicitGeneric	Manage Implicit Versions of Generic Functions
+inheritedSlotNames	Names of Slots Inherited From a Super Class
+initFieldArgs	Objects With Fields Treated by Reference (OOP-style)
+initialize	Generate an Object from a Class
+initialize-method	Classes Corresponding to Basic Structures
+initialize-method	Methods to Initialize New Objects from a Class
+initialize-method	Register Old-Style (S3) Classes and Inheritance
+initialize-method	Class '"envRefClass"'
+initialize-methods	Methods to Initialize New Objects from a Class
+initRefFields	Objects With Fields Treated by Reference (OOP-style)
+insertSource	Use Function Definitions from a Source File without Reinstalling a Package
+integer-class	Classes Corresponding to Basic Data Types
+integrate-class	Register Old-Style (S3) Classes and Inheritance
+Introduction	Basic use of S4 Methods and Classes
+is	Is an Object from a Class?
+isClass	Find Class Definitions
+isClassUnion	Classes Defined as the Union of Other Classes
+isGeneric	Tools for Managing Generic Functions
+isGroup	Tools for Managing Generic Functions
+isSealedClass	Check for a Sealed Method or Class
+isSealedMethod	Check for a Sealed Method or Class
+isXS3Class	S4 Classes that Contain S3 Classes
+-- L --
+language-class	Classes to Represent Unevaluated Language Objects
+libraryIQR-class	Register Old-Style (S3) Classes and Inheritance
+LinearMethodsList-class	Class "LinearMethodsList"
+list-class	Classes Corresponding to Basic Data Types
+listOfMethods-class	Description of the Methods Defined for a Generic Function
+lm-class	Register Old-Style (S3) Classes and Inheritance
+localRefClass-class	Localized Objects based on Reference Classes
+LocalReferenceClasses	Localized Objects based on Reference Classes
+Logic	S4 Group Generic Functions
+logical-class	Classes Corresponding to Basic Data Types
+logLik-class	Register Old-Style (S3) Classes and Inheritance
+-- M --
+makeClassRepresentation	Create a Class Definition
+maov-class	Register Old-Style (S3) Classes and Inheritance
+Math	S4 Group Generic Functions
+Math-method	Classes Corresponding to Basic Structures
+Math-method	A non-structure S4 Class for basic types
+Math2	S4 Group Generic Functions
+Math2-method	A non-structure S4 Class for basic types
+matrix-class	Classes Corresponding to Basic Structures
+method.skeleton	Create a Skeleton File for a New Method
+MethodDefinition-class	Classes to Represent Method Definitions
+MethodDefinitionWithTrace-class	Classes Used Internally to Control Tracing
+Methods	S4 Class Documentation
+MethodSelectionReport-class	Test for and Report about Selection of Inherited Methods
+MethodsList-class	Class MethodsList, Defunct Representation of Methods
+Methods_Details	General Information on Methods
+Methods_for_Nongenerics	Methods for Non-Generic Functions in Other Packages
+Methods_for_S3	Methods For S3 and S4 Dispatch
+MethodWithNext-class	Class MethodWithNext
+MethodWithNextWithTrace-class	Classes Used Internally to Control Tracing
+missing-class	Classes Corresponding to Basic Data Types
+mlm-class	Register Old-Style (S3) Classes and Inheritance
+mtable-class	Register Old-Style (S3) Classes and Inheritance
+mts-class	Register Old-Style (S3) Classes and Inheritance
+multipleClasses	Class names including the corresponding package
+-- N --
+name-class	Classes to Represent Unevaluated Language Objects
+namedList-class	Classes Corresponding to Basic Data Types
+new	Generate an Object from a Class
+nonstandardGenericWithTrace-class	Classes Used Internally to Control Tracing
+nonStructure-class	A non-structure S4 Class for basic types
+NULL-class	Classes Corresponding to Basic Data Types
+numeric-class	Classes Corresponding to Basic Data Types
+-- O --
+ObjectsWithPackage-class	A Vector of Object Names, with associated Package Names
+oldClass-class	Register Old-Style (S3) Classes and Inheritance
+Ops	S4 Group Generic Functions
+Ops-method	Classes Corresponding to Basic Structures
+Ops-method	A non-structure S4 Class for basic types
+ordered-class	Register Old-Style (S3) Classes and Inheritance
+-- P --
+packageInfo-class	Register Old-Style (S3) Classes and Inheritance
+packageIQR-class	Register Old-Style (S3) Classes and Inheritance
+packageSlot	The Name associated with a Given Package
+packageSlot<-	The Name associated with a Given Package
+POSIXct-class	Register Old-Style (S3) Classes and Inheritance
+POSIXlt-class	Register Old-Style (S3) Classes and Inheritance
+POSIXt-class	Register Old-Style (S3) Classes and Inheritance
+prohibitGeneric	Manage Implicit Versions of Generic Functions
+promptClass	Generate a Shell for Documentation of a Formal Class
+promptMethods	Generate a Shell for Documentation of Formal Methods
+prototype	Construct a Representation or a Prototype for a Class Definition
+-- R --
+raw-class	Classes Corresponding to Basic Data Types
+rbind2	Combine two Objects by Columns or Rows
+rbind2-method	Combine two Objects by Columns or Rows
+rbind2-methods	Combine two Objects by Columns or Rows
+recordedplot-class	Register Old-Style (S3) Classes and Inheritance
+refClass-class	Objects With Fields Treated by Reference (OOP-style)
+refClassRepresentation-class	Objects With Fields Treated by Reference (OOP-style)
+ReferenceClasses	Objects With Fields Treated by Reference (OOP-style)
+refGeneratorSlot-class	Objects With Fields Treated by Reference (OOP-style)
+refMethodDef-class	Objects With Fields Treated by Reference (OOP-style)
+refMethodDefWithTrace-class	Objects With Fields Treated by Reference (OOP-style)
+refObject-class	Objects With Fields Treated by Reference (OOP-style)
+refObjectGenerator-class	Objects With Fields Treated by Reference (OOP-style)
+registerImplicitGenerics	Manage Implicit Versions of Generic Functions
+removeClass	Find Class Definitions
+removeGeneric	Tools for Managing Generic Functions
+removeMethod	Remove a Method
+removeMethods	Tools for Managing Generic Functions
+repeat-class	Classes to Represent Unevaluated Language Objects
+representation	Construct a Representation or a Prototype for a Class Definition
+resetClass	Find Class Definitions
+rle-class	Register Old-Style (S3) Classes and Inheritance
+-- S --
+S3	S4 Classes that Contain S3 Classes
+S3-class	S4 Classes that Contain S3 Classes
+S3Class	S4 Classes that Contain S3 Classes
+S3Class<-	S4 Classes that Contain S3 Classes
+S3Part	S4 Classes that Contain S3 Classes
+S3Part<-	S4 Classes that Contain S3 Classes
+S4	S4 Classes that Contain S3 Classes
+S4-class	Classes Corresponding to Basic Data Types
+S4groupGeneric	S4 Group Generic Functions
+SClassExtension-class	Class to Represent Inheritance (Extension) Relations
+sealClass	Find Class Definitions
+SealedMethodDefinition-class	Classes to Represent Method Definitions
+selectMethod	Get or Test for the Definition of a Method
+selectSuperClasses	Super Classes (of Specific Kinds) of a Class
+setAs	Methods for Coercing an Object to a Class
+setClass	Create a Class Definition
+setClassUnion	Classes Defined as the Union of Other Classes
+setGeneric	Create a Generic Version of a Function
+setGenericImplicit	Manage Implicit Versions of Generic Functions
+setGroupGeneric	Create a Group Generic Version of a Function
+setIs	Specify a Superclass Explicitly
+setLoadAction	Set Actions For Package Loading
+setLoadActions	Set Actions For Package Loading
+setMethod	Create and Save a Method
+setOldClass	Register Old-Style (S3) Classes and Inheritance
+setPackageName	The Name associated with a Given Package
+setRefClass	Objects With Fields Treated by Reference (OOP-style)
+setReplaceMethod	Tools for Managing Generic Functions
+setValidity	Test the Validity of an Object
+show	Show an Object
+show-method	Classes Corresponding to Basic Structures
+show-method	Classes Used Internally to Control Tracing
+show-method	Objects With Fields Treated by Reference (OOP-style)
+show-method	Show an Object
+show-method	Class '"signature"' For Method Definitions
+show-methods	Show an Object
+showMethods	Show all the methods for the specified function(s) or class
+signature	Tools for Managing Generic Functions
+signature-class	Class '"signature"' For Method Definitions
+single-class	Classes Corresponding to Basic Data Types
+slot	The Slots in an Object from a Formal Class
+slot<-	The Slots in an Object from a Formal Class
+slotNames	The Slots in an Object from a Formal Class
+slotsFromS3	S4 Classes that Contain S3 Classes
+socket-class	Register Old-Style (S3) Classes and Inheritance
+sourceEnvironment-class	Use Function Definitions from a Source File without Reinstalling a Package
+special-class	Classes Corresponding to Basic Data Types
+structure-class	Classes Corresponding to Basic Structures
+Summary	S4 Group Generic Functions
+summary.table-class	Register Old-Style (S3) Classes and Inheritance
+summaryDefault-class	Register Old-Style (S3) Classes and Inheritance
+SuperClassMethod-class	Objects With Fields Treated by Reference (OOP-style)
+-- T --
+table-class	Register Old-Style (S3) Classes and Inheritance
+testInheritedMethods	Test for and Report about Selection of Inherited Methods
+traceable-class	Classes Used Internally to Control Tracing
+ts-class	Classes Corresponding to Basic Structures
+-- U --
+uninitializedField-class	Objects With Fields Treated by Reference (OOP-style)
+-- V --
+validObject	Test the Validity of an Object
+vector-class	Classes Corresponding to Basic Data Types
+VIRTUAL-class	Classes Corresponding to Basic Data Types
+-- W --
+while-class	Classes to Represent Unevaluated Language Objects
+-- misc --
+$-method	Class '"envRefClass"'
+$<--method	Localized Objects based on Reference Classes
+$<--method	Class '"envRefClass"'
+(-class	Classes to Represent Unevaluated Language Objects
+.BasicFunsList	List of Builtin and Special Functions
+.doTracePrint	Classes Used Internally to Control Tracing
+.environment-class	Class Definitions
+.externalptr-class	Class Definitions
+.hasSlot	The Slots in an Object from a Formal Class
+.InitTraceFunctions	Classes Used Internally to Control Tracing
+.makeTracedFunction	Classes Used Internally to Control Tracing
+.name-class	Class Definitions
+.NULL-class	Class Definitions
+.OldClassesList	Register Old-Style (S3) Classes and Inheritance
+.Other-class	Test for and Report about Selection of Inherited Methods
+.S4methods	Show all the methods for the specified function(s) or class
+.selectSuperClasses	Super Classes (of Specific Kinds) of a Class
+.setOldIs	Register Old-Style (S3) Classes and Inheritance
+.slotNames	The Slots in an Object from a Formal Class
+.untracedFunction	Classes Used Internally to Control Tracing
+<--class	Classes to Represent Unevaluated Language Objects
+__ClassMetaData	Class Definitions
+{-class	Classes to Represent Unevaluated Language Objects
+
+

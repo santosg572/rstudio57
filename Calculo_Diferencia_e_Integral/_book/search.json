@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "c02.html",
+    "href": "c02.html",
+    "title": "3  VARIABLES, FUNCIONES y LIMITES",
+    "section": "",
+    "text": "Variables y constantes. Una variable es una cantidad a la que se le puede asignar, durante el curso de un proceso de análisis, un número ilimitado de valores. Las variables se designan usualmente por las últimas letras del alfabeto.\nUna cantidad que durante el curso de un proceso tiene un valor fijo se llama constante.\n\nConstantes numéricas o absolutas son las que conservan los mismos valores en todos los problemas, como 2, 5, \\(\\sqrt{7}\\), \\(\\pi\\) , etc.\nConstantes arbitrarias, o parámetros, son aquellas a las que se pueden asignar valores numéricos, y que durante todo el proceso conservan esos valores asignados. Usualmente se representan por las primeras letras del alfabeto.\nAsí. en la ecuación de la recta,\n\\[\n\\frac{x}{a} + \\frac{y}{b}=1\n\\]\n\\(x\\) y \\(y\\) son las coordenadas variables de un punto que se mueve sobre la línea , mientras que \\(a\\) y \\(b\\) son las constantes arbitrarias que representan la abscisa en el origen y la ordenada en el origen, las cuales se supone que son valores definidos para cada recta.\nEl valor numérico (o absoluto) de una constante \\(a\\), para diferenciarlo de su valor algebraico , se representa por \\(|a|\\). Así, \\(|-2|= 2 = |2|\\). El símbolo \\(|a|\\) se lee “valor numérico de a” o “valor absoluto de a” ,.\n\nIntervalo de una variable. A menudo nos limitamos solamente a una porción del sistema de números. Por ejemplo, podemos restríugir nuestra variable de manera que tome únicamente valores comprendidos entre a y b. También puede ser que a y b sean incluidos o que"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "4  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "c01.html",
+    "href": "c01.html",
+    "title": "2  RESUMEN DE FORMULAS",
+    "section": "",
+    "text": "Fórmulas de Algebra y de Geometría elementales. Para comodidad del estudiante, en los Artículos 1 a 4 damos un resumen de fórmulas elementales. Empezaremos por las relativas al Algebra.\n\n\n\nResolución de la ecuación de segundo grado\n\n\\[\nAx^2 + Ex + C = O.\n\\]\n\nFactorizando: Se descompone \\(Ax^2 + Bx + C\\) en factores, se iguala cada factor a cero y se resuelven las ecuaciones que resultan, con respecto a \\(x\\).\nCompletando el cuadrado: Se transpone C al segundo miembro, se divide la ecuación por el coeficiente de \\(x^2\\) , se añade a ambos miembros el cuadrado de la mitad del coeficiente de \\(x\\) y se extrae la raíz cuadrada.\nEmpleando la fórmula\n\n\\[\nx = \\frac{-B \\pm \\sqrt{B^2 - 4AC}}{2A}\n\\]\nCarácter de las raíces. La expresión \\(B^2 - 4 AC\\), que aparece en la fórmula debajo del signo radical, se llama discriminante de la ecuación. Las dos raíces son reales y desiguales, reales e iguales, o imaginarias, según que el discriminante sea positivo, cero o negativo.\n\nLogaritmos.\n\n\\[\n\\log ab = \\log a + \\log b .\n\\]\n\\[\n\\log a^n = n \\log a.\n\\]\nlog a” = n log a.\na .” /- 1 log b = log a - log b . log v a = - log a. n\nlog 1 = O.\nloga a = 1."
+  }
+]

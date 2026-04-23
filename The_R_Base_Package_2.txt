@@ -1,0 +1,1257 @@
+base-package - El paquete básico R
+abbreviate - Cadenas abreviadas
+abs - Funciones matemáticas diversas
+acos - Funciones trigonométricas
+acosh - Funciones hiperbólicas
+activeBindingFunction - Encuadernación y bloqueo ambiental, vinculaciones activas
+addNA - Factores
+addTaskCallback - Agregar o eliminar una devolución de llamada de tarea de nivel superior
+agrep - Coincidencia aproximada de cadenas (coincidencia difusa)
+agrepl - Coincidencia aproximada de cadenas (coincidencia difusa)
+alist - Listas: pares genéricos y punteados
+all - ¿Son verdaderos todos los valores?
+all.equal - Pruebe si dos objetos son (casi) iguales
+all.names - Buscar todos los nombres en una expresión
+all.vars - Buscar todos los nombres en una expresión
+allowInterrupts - Manejo de condiciones y recuperación
+any - ¿Son ciertos algunos valores?
+anyDuplicated - Determinar elementos duplicados
+anyMissing - 'No disponible' / Valores faltantes
+anyNA - 'No disponible' / Valores faltantes
+anyNA.numeric_version - Versiones numéricas
+anyNA.POSIXlt - Clases de fecha y hora
+aperm - Transposición de matriz
+append - Fusión de vectores
+apply - Aplicar funciones sobre los márgenes de la matriz
+arccos - Funciones trigonométricas
+arcsin - Funciones trigonométricas
+arctan - Funciones trigonométricas
+Arg - Números complejos y funcionalidad básica
+args - Lista de argumentos de una función
+Arithmetic - Operadores aritméticos
+array - Matrices multidireccionales
+array2DF - Convertir matriz en marco de datos
+arrayInd - ¿Qué índices son VERDADEROS?
+as.array - Matrices multidireccionales
+as.call - Llamadas a funciones
+as.character - Vectores de personajes
+as.character.condition - Manejo de condiciones y recuperación
+as.character.Date - Funciones de conversión de fecha hacia y desde carácter
+as.character.hexmode - Números enteros mostrados en hexadecimal
+as.character.numeric_version - Versiones numéricas
+as.character.octmode - Números enteros mostrados en octal
+as.character.POSIXt - Funciones de conversión de fecha y hora hacia y desde caracteres
+as.character.srcref - Referencias a archivos fuente y código
+as.complex - Números complejos y funcionalidad básica
+as.data.frame - Coaccionar a un marco de datos
+as.data.frame.AsIs - Coaccionar a un marco de datos
+as.data.frame.Date - Fecha Clase
+as.data.frame.numeric_version - Versiones numéricas
+as.data.frame.POSIXct - Clases de fecha y hora
+as.data.frame.table - Tabulación cruzada y creación de tablas
+as.Date - Funciones de conversión de fecha hacia y desde carácter
+as.difftime - Intervalos de tiempo / diferencias
+as.double - Vectores de doble precisión
+as.double.difftime - Intervalos de tiempo / diferencias
+as.double.POSIXlt - Funciones de conversión de fecha y hora
+as.environment - Coaccionar a un objeto ambiental
+as.expression - Expresiones no evaluadas
+as.factor - Factores
+as.function - Convertir objeto en función
+as.hexmode - Números enteros mostrados en hexadecimal
+as.integer - Vectores enteros
+as.list - Listas: pares genéricos y punteados
+as.list.Date - Fecha Clase
+as.list.difftime - Intervalos de tiempo / diferencias
+as.list.numeric_version - Versiones numéricas
+as.list.POSIXct - Clases de fecha y hora
+as.logical - Vectores lógicos
+as.matrix - matrices
+as.matrix.noquote - Clase para impresión 'sin comillas' de cadenas de caracteres
+as.matrix.POSIXlt - Clases de fecha y hora
+as.name - Nombres y símbolos
+as.null - El objeto nulo
+as.numeric - Vectores numéricos
+as.numeric_version - Versiones numéricas
+as.octmode - Números enteros mostrados en octal
+as.ordered - Factores
+as.package_version - Versiones numéricas
+as.pairlist - Listas: pares genéricos y punteados
+as.POSIXct - Funciones de conversión de fecha y hora
+as.POSIXlt - Funciones de conversión de fecha y hora
+as.qr - La descomposición QR de una matriz
+as.raw - Vectores sin procesar
+as.single - Vectores de doble precisión
+as.symbol - Nombres y símbolos
+as.table - Tabulación cruzada y creación de tablas
+as.vector - Vectores - Creación, Coerción, etc.
+asin - Funciones trigonométricas
+asinh - Funciones hiperbólicas
+AsIs - Inhibir la interpretación/conversión de objetos
+asplit - Dividir matriz/matriz por sus márgenes
+asS3 - Prueba para un objeto S4
+asS4 - Prueba para un objeto S4
+assign - Asignar un valor a un nombre
+assignOps - Operadores de asignación
+atan - Funciones trigonométricas
+atan2 - Funciones trigonométricas
+atanh - Funciones hiperbólicas
+atomic - Vectores - Creación, Coerción, etc.
+attach - Adjunte un conjunto de objetos R a la ruta de búsqueda
+attachNamespace - Cargando y descargando espacios de nombres
+attr - Atributos de objeto
+attr.all.equal - Pruebe si dos objetos son (casi) iguales
+attributes - Listas de atributos de objetos
+autoload - Carga de paquetes bajo demanda
+autoloader - Carga de paquetes bajo demanda
+Autoloads - Carga de paquetes bajo demanda
+backquote - Citas
+backsolve - Resolver un sistema triangular superior o inferior
+backtick - Citas
+balancePOSIXlt - Equilibrio de fechas y horas POSIXlt "irregulares" y fuera de rango
+base - El paquete básico R
+baseenv - Acceso al entorno
+basename - Manipular rutas de archivos
+Bessel - Funciones de Bessel
+bessel - Funciones de Bessel
+besselI - Funciones de Bessel
+besselJ - Funciones de Bessel
+besselK - Funciones de Bessel
+besselY - Funciones de Bessel
+beta - Funciones especiales de las matemáticas
+bindenv - Encuadernación y bloqueo ambiental, vinculaciones activas
+bindingIsActive - Encuadernación y bloqueo ambiental, vinculaciones activas
+bindingIsLocked - Encuadernación y bloqueo ambiental, vinculaciones activas
+bindtextdomain - Traducir mensajes de texto
+bitwAnd - Operaciones lógicas bit a bit
+bitwNot - Operaciones lógicas bit a bit
+bitwOr - Operaciones lógicas bit a bit
+bitwShiftL - Operaciones lógicas bit a bit
+bitwShiftR - Operaciones lógicas bit a bit
+bitwXor - Operaciones lógicas bit a bit
+body - Acceso y manipulación del cuerpo de una función
+bquote - Sustitución parcial en expresiones.
+break - Controlar el flujo
+browser - Navegador de entorno
+browserCondition - Funciones para recuperar valores proporcionados por llamadas al navegador
+browserSetDebug - Funciones para recuperar valores proporcionados por llamadas al navegador
+browserText - Funciones para recuperar valores proporcionados por llamadas al navegador
+builtins - Devuelve los nombres de todos los objetos integrados
+by - Aplicar una función a un marco de datos dividido por factores
+bzfile - Funciones para manipular conexiones (archivos, URL, ...)
+c.Date - Fecha Clase
+c.difftime - Intervalos de tiempo / diferencias
+c.factor - Factores
+c.noquote - Clase para impresión 'sin comillas' de cadenas de caracteres
+c.numeric_version - Versiones numéricas
+c.POSIXct - Clases de fecha y hora
+c.warnings - Imprimir mensajes de advertencia
+call - Llamadas a funciones
+callCC - Llamada con continuación actual
+capabilities - Informar sobre las capacidades de esta compilación de R
+casefold - Traducción de personajes y plegado de casos
+cat - Concatenar e imprimir
+cbind - Combinar objetos R por filas o columnas
+cbind.data.frame - Combinar objetos R por filas o columnas
+ceiling - Redondeo de números
+char.expand - Expandir una cadena con respecto a una tabla de destino
+character - Vectores de personajes
+charmatch - Coincidencia parcial de cadenas
+charToRaw - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+chartr - Traducción de personajes y plegado de casos
+chkDots - Advierte sobre argumentos extraños en el "..." de quien llama
+chol - La descomposición de Cholesky
+chol2inv - Inversa de la descomposición de Cholesky (o QR)
+choose - Funciones especiales de las matemáticas
+chooseOpsMethod - Elija el método apropiado para las operaciones
+class - Clases de objetos
+clearPushBack - Enviar texto nuevamente a una conexión
+clipboard - Funciones para manipular conexiones (archivos, URL, ...)
+close - Funciones para manipular conexiones (archivos, URL, ...)
+close.srcfile - Referencias a archivos fuente y código
+close.srcfilealias - Referencias a archivos fuente y código
+closeAllConnections - Conexiones de pantalla
+closure - Definición de función
+code point - Convertir vectores enteros hacia o desde vectores de caracteres codificados en UTF-8
+col - Índices de columnas
+collation - Operadores relacionales
+colMeans - Formar sumas y medias de filas y columnas
+colnames - Nombres de filas y columnas
+colon - Operador de Colón
+colSums - Formar sumas y medias de filas y columnas
+commandArgs - Extraer argumentos de línea de comando
+comment - Consultar o establecer un atributo '"comentario"'
+Comparison - Operadores relacionales
+Complex - Funciones genéricas del grupo S3
+complex - Números complejos y funcionalidad básica
+computeRestarts - Manejo de condiciones y recuperación
+condition - Manejo de condiciones y recuperación
+conditionCall - Manejo de condiciones y recuperación
+conditionCall.condition - Manejo de condiciones y recuperación
+conditionMessage - Manejo de condiciones y recuperación
+conditionMessage.condition - Manejo de condiciones y recuperación
+conditions - Manejo de condiciones y recuperación
+conflictRules - Cargando/Adjuntando y Listado de Paquetes
+conflicts - Buscar objetos enmascarados en la ruta de búsqueda
+Conj - Números complejos y funcionalidad básica
+connection - Funciones para manipular conexiones (archivos, URL, ...)
+connections - Funciones para manipular conexiones (archivos, URL, ...)
+Constants - Constantes incorporadas
+contributors - Colaboradores del proyecto R
+Control - Controlar el flujo
+copyright - Derechos de autor de los archivos utilizados para construir R
+copyrights - Derechos de autor de los archivos utilizados para construir R
+cos - Funciones trigonométricas
+cosh - Funciones hiperbólicas
+cospi - Funciones trigonométricas
+crossprod - Producto cruzado de matriz
+CStackOverflowError - Errores de desbordamiento de pila
+Cstack_info - Informar sobre el tamaño y el uso de la pila C
+cummax - Sumas acumuladas, productos y extremos
+cummin - Sumas acumuladas, productos y extremos
+cumprod - Sumas acumuladas, productos y extremos
+cumsum - Sumas acumuladas, productos y extremos
+curlGetHeaders - Recuperar encabezados de URL
+cut - Convertir numérico a factor
+cut.POSIXt - Convertir un objeto de fecha o fecha-hora en un factor
+data.class - Clases de objetos
+data.frame - Marcos de datos
+data.matrix - Convertir un marco de datos en una matriz numérica
+Date - Fecha Clase
+date - Fecha y hora del sistema
+date-time - Clases de fecha y hora
+Dates - Fecha Clase
+DateTimeClasses - Clases de fecha y hora
+debug - Depurar una función
+debuggingState - Depurar una función
+debugonce - Depurar una función
+Defunct - Marcar objetos como difuntos
+defunct - Marcar objetos como difuntos
+delayedAssign - Retrasar la evaluación y las promesas
+deparse - Expresión desapareciendo
+deparse1 - Expresión desapareciendo
+Deprecated - Marcar objetos como obsoletos
+deprecated - Marcar objetos como obsoletos
+det - Calcular el determinante de una matriz
+detach - Separar objetos de la ruta de búsqueda
+determinant - Calcular el determinante de una matriz
+dget - Escribir un objeto en un archivo o recrearlo
+diag - Diagonales de matriz
+diff - Diferencias rezagadas
+diff.difftime - Intervalos de tiempo / diferencias
+difftime - Intervalos de tiempo / diferencias
+digamma - Funciones especiales de las matemáticas
+dim - Dimensiones de un objeto
+dimnames - Dimnames de un objeto
+dir - Listar los archivos en un directorio/carpeta
+dir.create - Manipulación de directorios y permisos de archivos
+dirname - Manipular rutas de archivos
+DISPLAY - Variables de entorno
+DLLInfo - Obtener archivos DLL cargados en la sesión actual
+DLLInfoList - Obtener archivos DLL cargados en la sesión actual
+do.call - Ejecutar una llamada de función
+dontCheck - Función de identidad para suprimir la verificación
+dots - ..., '..1', etc. utilizados en Funciones
+double - Vectores de doble precisión
+dput - Escribir un objeto en un archivo o recrearlo
+dQuote - Texto de cotización
+drop - Eliminar información de extensión redundante
+droplevels - Eliminar niveles no utilizados de factores
+dump - Representaciones de texto de objetos R
+duplicated - Determinar elementos duplicados
+duplicated.numeric_version - Versiones numéricas
+duplicated.POSIXlt - Clases de fecha y hora
+duplicated.warnings - Imprimir mensajes de advertencia
+dyn.load - Interfaz de función externa
+dyn.unload - Interfaz de función externa
+dynGet - Devolver el valor de un objeto con nombre
+eapply - Aplicar una función sobre valores en un entorno
+EDITOR - Variables de entorno
+eigen - Descomposición espectral de una matriz
+else - Controlar el flujo
+emptyenv - Acceso al entorno
+enc2native - Leer o configurar las codificaciones declaradas para un vector de caracteres
+enc2utf8 - Leer o configurar las codificaciones declaradas para un vector de caracteres
+enclosure - Acceso al entorno
+encodeString - Codificar vectores de caracteres como para imprimir
+Encoding - Leer o configurar las codificaciones declaradas para un vector de caracteres
+endsWith - ¿La cadena comienza o termina con otra cadena?
+enquote - Sustituir y citar expresiones
+env.profile - Acceso al entorno
+environment - Acceso al entorno
+environment variables - Variables de entorno
+environmentIsLocked - Encuadernación y bloqueo ambiental, vinculaciones activas
+environmentName - Acceso al entorno
+errorCondition - Manejo de condiciones y recuperación
+eval - Evaluar una expresión (no evaluada)
+eval.parent - Evaluar una expresión (no evaluada)
+evalq - Evaluar una expresión (no evaluada)
+exists - ¿Está definido un objeto?
+exp - Logaritmos y exponenciales
+expand.grid - Cree un marco de datos a partir de todas las combinaciones de variables de factores
+expm1 - Logaritmos y exponenciales
+expression - Expresiones no evaluadas
+expressionStackOverflowError - Errores de desbordamiento de pila
+Extract - Extraer o reemplazar partes de un objeto
+extSoftVersion - Informar sobre versiones de software de terceros
+factor - Factores
+factorial - Funciones especiales de las matemáticas
+FALSE - Vectores lógicos
+fifo - Funciones para manipular conexiones (archivos, URL, ...)
+file - Funciones para manipular conexiones (archivos, URL, ...)
+file path encoding - Rutas de archivos que no están en la codificación nativa
+file.access - Determinar la accesibilidad del archivo
+file.append - Manipulación de archivos
+file.choose - Elija un archivo de forma interactiva
+file.copy - Manipulación de archivos
+file.create - Manipulación de archivos
+file.exists - Manipulación de archivos
+file.info - Extraer información del archivo
+file.link - Manipulación de archivos
+file.mode - Extraer información del archivo
+file.mtime - Extraer información del archivo
+file.path - Construir ruta al archivo
+file.remove - Manipulación de archivos
+file.rename - Manipulación de archivos
+file.show - Mostrar uno o más archivos de texto
+file.size - Extraer información del archivo
+file.symlink - Manipulación de archivos
+files - Manipulación de archivos
+Filter - Funciones comunes de orden superior en lenguajes de programación funcionales
+finalizer - Finalización de objetos
+Find - Funciones comunes de orden superior en lenguajes de programación funcionales
+find.package - Buscar paquetes
+findInterval - Buscar números o índices de intervalo
+findRestart - Manejo de condiciones y recuperación
+finite - Números finitos, infinitos y NaN
+floor - Redondeo de números
+flush - Funciones para manipular conexiones (archivos, URL, ...)
+for - Controlar el flujo
+force - Forzar la evaluación de un argumento
+forceAndCall - Llamar a una función con algunos argumentos forzados
+Foreign - Interfaz de función externa
+formals - Acceso y manipulación de los argumentos formales
+format - Codificar en un formato común
+format.Date - Funciones de conversión de fecha hacia y desde carácter
+format.difftime - Intervalos de tiempo / diferencias
+format.hexmode - Números enteros mostrados en hexadecimal
+format.info - formato(.) Información
+format.libraryIQR - Cargando/Adjuntando y Listado de Paquetes
+format.numeric_version - Versiones numéricas
+format.octmode - Números enteros mostrados en octal
+format.packageInfo - Cargando/Adjuntando y Listado de Paquetes
+format.POSIXct - Funciones de conversión de fecha y hora hacia y desde caracteres
+format.pval - Formatear valores P
+format.summaryDefault - Resúmenes de objetos
+formatC - Formateo usando formatos de estilo C
+formatDL - Listas de descripción de formato
+forwardsolve - Resolver un sistema triangular superior o inferior
+function - Definición de función
+fuzzy matching - Coincidencia aproximada de cadenas (coincidencia difusa)
+gamma - Funciones especiales de las matemáticas
+gc - Recolección de basura
+gc.time - Informar el tiempo dedicado a la recolección de basura
+gcinfo - Recolección de basura
+gctorture - Recolector de basura de tortura
+gctorture2 - Recolector de basura de tortura
+get - Devolver el valor de un objeto con nombre
+get0 - ¿Está definido un objeto?
+getAllConnections - Conexiones de pantalla
+getConnection - Conexiones de pantalla
+getDLLRegisteredRoutines - Información de reflectancia para rutinas C/Fortran en una DLL
+getElement - Extraer o reemplazar partes de un objeto
+geterrmessage - Detener la ejecución de la función
+getHook - Funciones para Obtener y Colocar Ganchos para Cargar, Enganchar, Desenganchar y Descargar
+getLoadedDLLs - Obtener archivos DLL cargados en la sesión actual
+getNativeSymbolInfo - Obtener una descripción de uno o más símbolos nativos (C/Fortran)
+getOption - Configuración de opciones
+getRversion - Versiones numéricas
+getSrcLines - Referencias a archivos fuente y código
+getTaskCallbackNames - Consultar los nombres de las devoluciones de llamadas de tareas internas de nivel superior actuales
+gettext - Traducir mensajes de texto
+gettextf - Utilice comandos de formato de cadenas estilo C
+getwd - Obtener o configurar el directorio de trabajo
+gl - Generar niveles de factores
+globalCallingHandlers - Manejo de condiciones y recuperación
+globalenv - Acceso al entorno
+gregexec - Coincidencia y reemplazo de patrones
+gregexpr - Coincidencia y reemplazo de patrones
+grep - Coincidencia y reemplazo de patrones
+grepl - Coincidencia y reemplazo de patrones
+grepRaw - Coincidencia de patrones para vectores sin procesar
+group generic - Funciones genéricas del grupo S3
+groupGeneric - Funciones genéricas del grupo S3
+grouping - Permutación de agrupación
+GSC - Variables de entorno
+gsub - Coincidencia y reemplazo de patrones
+gzcon - (Des)comprimir E/S a través de conexiones
+gzfile - Funciones para manipular conexiones (archivos, URL, ...)
+hexmode - Números enteros mostrados en hexadecimal
+HOME - Variables de entorno
+iconv - Convertir vectores de caracteres entre codificaciones
+iconvlist - Convertir vectores de caracteres entre codificaciones
+icuGetCollate - Configuración de recopilación por UCI
+icuSetCollate - Configuración de recopilación por UCI
+identical - Objetos de prueba para igualdad exacta
+identity - Función de identidad
+if - Controlar el flujo
+ifelse - Selección de elementos condicionales
+Im - Números complejos y funcionalidad básica
+in - Controlar el flujo
+Inf - Números finitos, infinitos y NaN
+infinite - Números finitos, infinitos y NaN
+infoRDS - Interfaz de serialización para objetos individuales
+inherits - Clases de objetos
+integer - Vectores enteros
+interaction - Calcular las interacciones de los factores
+interactive - ¿R se está ejecutando de forma interactiva?
+internal generic - Funciones genéricas internas
+InternalGenerics - Funciones genéricas internas
+InternalMethods - Funciones genéricas internas
+intersect - Establecer operaciones
+intersection - Establecer operaciones
+intToBits - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+intToUtf8 - Convertir vectores enteros hacia o desde vectores de caracteres codificados en UTF-8
+inverse.rle - Codificación de longitud de ejecución
+invisible - Cambie el modo de impresión a invisible
+invokeRestart - Manejo de condiciones y recuperación
+invokeRestartInteractively - Manejo de condiciones y recuperación
+is.array - Matrices multidireccionales
+is.atomic - ¿Es un objeto atómico o recursivo?
+is.call - Llamadas a funciones
+is.character - Vectores de personajes
+is.complex - Números complejos y funcionalidad básica
+is.data.frame - Coaccionar a un marco de datos
+is.double - Vectores de doble precisión
+is.element - Establecer operaciones
+is.environment - Acceso al entorno
+is.expression - Expresiones no evaluadas
+is.factor - Factores
+is.finite - Números finitos, infinitos y NaN
+is.finite.POSIXlt - Clases de fecha y hora
+is.function - ¿Es un objeto de tipo función (primitiva)?
+is.infinite - Números finitos, infinitos y NaN
+is.infinite.POSIXlt - Clases de fecha y hora
+is.integer - Vectores enteros
+is.language - ¿Es un objeto un objeto de lenguaje?
+is.list - Listas: pares genéricos y punteados
+is.loaded - Interfaz de función externa
+is.logical - Vectores lógicos
+is.matrix - matrices
+is.na - 'No disponible' / Valores faltantes
+is.na.numeric_version - Versiones numéricas
+is.na.POSIXlt - Clases de fecha y hora
+is.name - Nombres y símbolos
+is.nan - Números finitos, infinitos y NaN
+is.nan.POSIXlt - Clases de fecha y hora
+is.null - El objeto nulo
+is.numeric - Vectores numéricos
+is.numeric.difftime - Intervalos de tiempo / diferencias
+is.numeric_version - Versiones numéricas
+is.object - ¿Está un objeto 'clasificado internamente'?
+is.ordered - Factores
+is.package_version - Versiones numéricas
+is.pairlist - Listas: pares genéricos y punteados
+is.primitive - ¿Es un objeto de tipo función (primitiva)?
+is.qr - La descomposición QR de una matriz
+is.R - ¿Estamos usando R, en lugar de S?
+is.raw - Vectores sin procesar
+is.recursive - ¿Es un objeto atómico o recursivo?
+is.single - ¿Es un objeto de tipo de precisión única?
+is.symbol - Nombres y símbolos
+is.table - Tabulación cruzada y creación de tablas
+is.unsorted - Probar si un objeto no está ordenado
+is.vector - Vectores - Creación, Coerción, etc.
+isa - Clases de objetos
+isatty - Conexiones de pantalla
+isdebugged - Depurar una función
+isFALSE - Operadores lógicos
+isIncomplete - Funciones para manipular conexiones (archivos, URL, ...)
+isNamespaceLoaded - Cargando y descargando espacios de nombres
+ISOdate - Funciones de conversión de fecha y hora a partir de representaciones numéricas
+ISOdatetime - Funciones de conversión de fecha y hora a partir de representaciones numéricas
+isOpen - Funciones para manipular conexiones (archivos, URL, ...)
+isRestart - Manejo de condiciones y recuperación
+isS4 - Prueba para un objeto S4
+isSeekable - Funciones para reposicionar conexiones
+isSymmetric - Probar si una matriz u otro objeto es simétrico (hermitiano)
+isTRUE - Operadores lógicos
+jitter - 'Jitter' (Agregar ruido) a los números
+julian - Extraer partes de un objeto POSIXt o de fecha
+kappa - Calcular o estimar el número de condición de una matriz
+kronecker - Productos Kronecker en matrices
+l10n_info - Información de localización
+La.svd - Descomposición de valores singulares de una matriz
+labels - Buscar etiquetas de objetos
+LANGUAGE - Variables de entorno
+language - ¿Es un objeto un objeto de lenguaje?
+language object - ¿Es un objeto un objeto de lenguaje?
+language objects - ¿Es un objeto un objeto de lenguaje?
+lapply - Aplicar una función sobre una lista o vector
+last.warning - Imprimir mensajes de advertencia
+La_library - Biblioteca LAPACK
+La_version - Versión LAPACK
+lbeta - Funciones especiales de las matemáticas
+lchoose - Funciones especiales de las matemáticas
+LC_ALL - Consultar o establecer aspectos de la configuración regional
+LC_COLLATE - Consultar o establecer aspectos de la configuración regional
+LC_CTYPE - Consultar o establecer aspectos de la configuración regional
+LC_MEASUREMENT - Consultar o establecer aspectos de la configuración regional
+LC_MESSAGES - Consultar o establecer aspectos de la configuración regional
+LC_MONETARY - Consultar o establecer aspectos de la configuración regional
+LC_NUMERIC - Consultar o establecer aspectos de la configuración regional
+LC_PAPER - Consultar o establecer aspectos de la configuración regional
+LC_TIME - Consultar o establecer aspectos de la configuración regional
+length - Longitud de un objeto
+length.POSIXlt - Clases de fecha y hora
+lengths - Longitudes de elementos de lista o vector
+LETTERS - Constantes incorporadas
+letters - Constantes incorporadas
+levels - Atributos de niveles
+lfactorial - Funciones especiales de las matemáticas
+lgamma - Funciones especiales de las matemáticas
+libcurlVersion - Informe de versión de libcurl
+library - Cargando/Adjuntando y Listado de Paquetes
+library.dynam - Cargando archivos DLL desde paquetes
+library.dynam.unload - Cargando archivos DLL desde paquetes
+licence - Los términos de la licencia R
+license - Los términos de la licencia R
+list - Listas: pares genéricos y punteados
+list.dirs - Listar los archivos en un directorio/carpeta
+list.files - Listar los archivos en un directorio/carpeta
+list2DF - Crear marco de datos a partir de la lista
+list2env - Desde una lista, cree o agregue a un entorno
+load - Recargar conjuntos de datos guardados
+loadedNamespaces - Cargando y descargando espacios de nombres
+loadNamespace - Cargando y descargando espacios de nombres
+local - Evaluar una expresión (no evaluada)
+localeconv - Encuentre detalles de las representaciones numéricas y monetarias en la ubicación actual
+locales - Consultar o establecer aspectos de la configuración regional
+lockBinding - Encuadernación y bloqueo ambiental, vinculaciones activas
+lockEnvironment - Encuadernación y bloqueo ambiental, vinculaciones activas
+log - Logaritmos y exponenciales
+log10 - Logaritmos y exponenciales
+log1p - Logaritmos y exponenciales
+log2 - Logaritmos y exponenciales
+logb - Logaritmos y exponenciales
+Logic - Operadores lógicos
+logical - Vectores lógicos
+long vector - Vectores largos
+Long vectors - Vectores largos
+long vectors - Vectores largos
+lower.tri - Parte triangular inferior y superior de una matriz
+ls - Listar objetos
+make.names - Crear nombres sintácticamente válidos
+make.unique - Haga que las cadenas de caracteres sean únicas
+makeActiveBinding - Encuadernación y bloqueo ambiental, vinculaciones activas
+MAKEINDEX - Variables de entorno
+Map - Funciones comunes de orden superior en lenguajes de programación funcionales
+mapply - Aplicar una función a múltiples listas o argumentos vectoriales
+margin.table - Calcular márgenes de la tabla
+marginSums - Calcular márgenes de la tabla
+mat.or.vec - Crear una matriz o un vector
+match - Coincidencia de valores
+match.arg - Verificación de argumentos mediante coincidencia parcial
+match.call - Coincidencia de argumentos
+match.fun - Extraer una función especificada por nombre
+Math - Funciones genéricas del grupo S3
+Math.Date - Fecha Clase
+Math.difftime - Intervalos de tiempo / diferencias
+Math.factor - Factores
+Math.POSIXlt - Clases de fecha y hora
+Math.POSIXt - Clases de fecha y hora
+matmult - Multiplicación de matrices
+matrix - matrices
+matrixOps - Funciones genéricas del grupo S3
+max - Máximos y mínimos
+max.col - Encontrar la posición máxima en Matrix
+MC_CORES - Configuración de opciones
+mean - Media aritmética
+mean.Date - Fecha Clase
+mean.difftime - Intervalos de tiempo / diferencias
+mean.POSIXct - Clases de fecha y hora
+mem.maxVSize - Consultar y establecer límites de tamaño del montón
+memCompress - Compresión y descompresión en memoria
+memDecompress - Compresión y descompresión en memoria
+Memory - Memoria disponible para almacenamiento de datos
+Memory-limits - Límites de memoria en R
+memory.profile - Perfilar el uso de celdas de desventajas
+merge - Fusionar dos marcos de datos
+message - Mensajes de diagnóstico
+mget - Devolver el valor de un objeto con nombre
+min - Máximos y mínimos
+missing - ¿Tiene valor un argumento formal?
+Mod - Números complejos y funcionalidad básica
+mode - El modo (de almacenamiento) de un objeto
+month.abb - Constantes incorporadas
+months - Extraer partes de un objeto POSIXt o de fecha
+mtfrm - Función auxiliar para emparejar
+NA - 'No disponible' / Valores faltantes
+name - Nombres y símbolos
+nameOfClass - Clases de objetos
+names - Los nombres de un objeto
+names.POSIXlt - Clases de fecha y hora
+NaN - Números finitos, infinitos y NaN
+nargs - El número de argumentos de una función
+NativeSymbol - Obtener una descripción de uno o más símbolos nativos (C/Fortran)
+NativeSymbolInfo - Obtener una descripción de uno o más símbolos nativos (C/Fortran)
+NA_character_ - 'No disponible' / Valores faltantes
+NA_complex_ - 'No disponible' / Valores faltantes
+NA_integer_ - 'No disponible' / Valores faltantes
+NA_real_ - 'No disponible' / Valores faltantes
+nchar - Cuente el número de caracteres (o bytes o ancho)
+NCOL - El número de filas/columnas de una matriz
+ncol - El número de filas/columnas de una matriz
+Negate - Funciones comunes de orden superior en lenguajes de programación funcionales
+new.env - Acceso al entorno
+next - Controlar el flujo
+NextMethod - Métodos de clase
+ngettext - Traducir mensajes de texto
+nlevels - El número de niveles de un factor
+nodeStackOverflowError - Errores de desbordamiento de pila
+noquote - Clase para impresión 'sin comillas' de cadenas de caracteres
+norm - Calcular la norma de una matriz
+normalizePath - Rutas de archivos exprés en forma canónica
+NotYetImplemented - Funciones aún no implementadas y argumentos no utilizados
+NotYetUsed - Funciones aún no implementadas y argumentos no utilizados
+NROW - El número de filas/columnas de una matriz
+nrow - El número de filas/columnas de una matriz
+NULL - El objeto nulo
+nullfile - Conexiones de pantalla
+numeric - Vectores numéricos
+NumericConstants - Constantes numéricas
+numeric_version - Versiones numéricas
+numToBits - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+numToInts - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+nzchar - Cuente el número de caracteres (o bytes o ancho)
+objects - Listar objetos
+octmode - Números enteros mostrados en octal
+oldClass - Clases de objetos
+OlsonNames - Zonas horarias
+on.exit - Código de salida de función
+open - Funciones para manipular conexiones (archivos, URL, ...)
+open.srcfile - Referencias a archivos fuente y código
+open.srcfilealias - Referencias a archivos fuente y código
+Ops - Funciones genéricas del grupo S3
+Ops.Date - Operadores en la clase de fecha
+Ops.difftime - Intervalos de tiempo / diferencias
+Ops.factor - Factores
+Ops.numeric_version - Versiones numéricas
+Ops.ordered - Factores
+Ops.POSIXt - Clases de fecha y hora
+option - Configuración de opciones
+options - Configuración de opciones
+order - Ordenar permutación
+ordered - Factores
+outer - Producto externo de matrices
+packageEvent - Funciones para Obtener y Colocar Ganchos para Cargar, Enganchar, Desenganchar y Descargar
+packageNotFoundError - Buscar paquetes
+packageStartupMessage - Mensajes de diagnóstico
+package_version - Versiones numéricas
+packBits - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+PAGER - Variables de entorno
+pairlist - Listas: pares genéricos y punteados
+Paren - Paréntesis y llaves
+parent.env - Acceso al entorno
+parent.frame - Funciones para acceder a la pila de llamadas de funciones
+parse - Analizar expresiones R
+paste - Concatenar cadenas
+paste0 - Concatenar cadenas
+path.expand - Expandir rutas de archivos
+path.package - Buscar paquetes
+pcre_config - Opciones de configuración de informes para PCRE
+pi - Constantes incorporadas
+pipe - Funciones para manipular conexiones (archivos, URL, ...)
+pipeOp - Operador de tubería delantera
+plot - Trazado X-Y genérico
+pmatch - Coincidencia parcial de cadenas
+pmax - Máximos y mínimos
+pmax.int - Máximos y mínimos
+pmin - Máximos y mínimos
+pmin.int - Máximos y mínimos
+polyroot - Encontrar ceros de un polinomio real o complejo
+pos.to.env - Convertir posiciones en la ruta de búsqueda a entornos
+Position - Funciones comunes de orden superior en lenguajes de programación funcionales
+POSIXct - Clases de fecha y hora
+POSIXlt - Clases de fecha y hora
+POSIXt - Clases de fecha y hora
+pretty - Bonitos puntos de interrupción
+pretty.default - Bonitos puntos de interrupción
+prettyNum - Formateo usando formatos de estilo C
+primitive - Buscar una función primitiva
+print - Imprimir valores
+print.AsIs - Inhibir la interpretación/conversión de objetos
+print.by - Aplicar una función a un marco de datos dividido por factores
+print.condition - Manejo de condiciones y recuperación
+print.connection - Funciones para manipular conexiones (archivos, URL, ...)
+print.data.frame - Impresión de marcos de datos
+print.Date - Fecha Clase
+print.default - Impresión predeterminada
+print.difftime - Intervalos de tiempo / diferencias
+print.Dlist - Imprimir valores
+print.DLLInfo - Obtener archivos DLL cargados en la sesión actual
+print.eigen - Descomposición espectral de una matriz
+print.hexmode - Números enteros mostrados en hexadecimal
+print.libraryIQR - Cargando/Adjuntando y Listado de Paquetes
+print.NativeRoutineList - Información de reflectancia para rutinas C/Fortran en una DLL
+print.noquote - Clase para impresión 'sin comillas' de cadenas de caracteres
+print.numeric_version - Versiones numéricas
+print.octmode - Números enteros mostrados en octal
+print.packageInfo - Cargando/Adjuntando y Listado de Paquetes
+print.POSIXct - Clases de fecha y hora
+print.proc_time - Tiempo de ejecución de R
+print.rle - Codificación de longitud de ejecución
+print.simple.list - Imprimir valores
+print.srcfile - Referencias a archivos fuente y código
+print.srcref - Referencias a archivos fuente y código
+print.summary.table - Tabulación cruzada y creación de tablas
+print.summary.warnings - Imprimir mensajes de advertencia
+print.summaryDefault - Resúmenes de objetos
+print.warnings - Imprimir mensajes de advertencia
+prmatrix - Matrices de impresión, estilo antiguo
+proc.time - Tiempo de ejecución de R
+prod - Producto de elementos vectoriales
+promise - Retrasar la evaluación y las promesas
+promises - Retrasar la evaluación y las promesas
+prop.table - Expresar entradas de tabla como fracción de tabla marginal
+proportions - Expresar entradas de tabla como fracción de tabla marginal
+protectStackOverflowError - Errores de desbordamiento de pila
+provideDimnames - Dimnames de un objeto
+psigamma - Funciones especiales de las matemáticas
+pushBack - Enviar texto nuevamente a una conexión
+pushBackLength - Enviar texto nuevamente a una conexión
+qr - La descomposición QR de una matriz
+qr.coef - La descomposición QR de una matriz
+qr.default - La descomposición QR de una matriz
+qr.fitted - La descomposición QR de una matriz
+qr.Q - Reconstruir las matrices Q, R o X a partir de un objeto QR
+qr.qty - La descomposición QR de una matriz
+qr.qy - La descomposición QR de una matriz
+qr.R - Reconstruir las matrices Q, R o X a partir de un objeto QR
+qr.resid - La descomposición QR de una matriz
+qr.solve - La descomposición QR de una matriz
+qr.X - Reconstruir las matrices Q, R o X a partir de un objeto QR
+quarters - Extraer partes de un objeto POSIXt o de fecha
+quit - Terminar una sesión de R
+quote - Sustituir y citar expresiones
+Quotes - Citas
+R.home - Devolver el directorio de inicio de R
+R.Version - Información de versión
+R.version.string - Información de versión
+Random - Generación de números aleatorios
+Random.user - Generación de números aleatorios proporcionada por el usuario
+range - Rango de valores
+rank - Rangos de muestra
+rapply - Aplicar recursivamente una función a una lista
+raw - Vectores sin procesar
+rawConnection - Conexiones sin procesar
+rawConnectionValue - Conexiones sin procesar
+rawShift - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+rawToBits - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+rawToChar - Convertir hacia o desde vectores sin procesar (en bits/empaquetados)
+rbind - Combinar objetos R por filas o columnas
+rbind.data.frame - Combinar objetos R por filas o columnas
+rcond - Calcular o estimar el número de condición de una matriz
+Rd2pdf - Utilidades para procesar archivos Rd
+RD2PDF_INPUTENC - Utilidades para procesar archivos Rd
+Rdconv - Utilidades para procesar archivos Rd
+Re - Números complejos y funcionalidad básica
+read.dcf - Leer y escribir datos en formato DCF
+readBin - Transferir datos binarios hacia y desde conexiones
+readChar - Transferir cadenas de caracteres hacia y desde conexiones
+readline - Leer una línea desde la terminal
+readLines - Leer líneas de texto de una conexión
+readRDS - Interfaz de serialización para objetos individuales
+readRenviron - Establecer variables de entorno desde un archivo
+Recall - Llamadas recursivas
+Reduce - Funciones comunes de orden superior en lenguajes de programación funcionales
+reg.finalizer - Finalización de objetos
+regex - Expresiones regulares como se usan en R
+regexec - Coincidencia y reemplazo de patrones
+regexp - Expresiones regulares como se usan en R
+regexpr - Coincidencia y reemplazo de patrones
+RegisteredNativeSymbol - Obtener una descripción de uno o más símbolos nativos (C/Fortran)
+regmatches - Extraer o reemplazar subcadenas coincidentes
+regular expression - Expresiones regulares como se usan en R
+remove - Eliminar objetos de un entorno específico
+removeTaskCallback - Agregar o eliminar una devolución de llamada de tarea de nivel superior
+Renviron - Inicialización al inicio de una sesión de R
+rep - Replicar elementos de vectores y listas
+rep.difftime - Intervalos de tiempo / diferencias
+rep.numeric_version - Versiones numéricas
+repeat - Controlar el flujo
+replace - Reemplazar valores en un vector
+replicate - Aplicar una función sobre una lista o vector
+rep_len - Replicar elementos de vectores y listas
+require - Cargando/Adjuntando y Listado de Paquetes
+requireNamespace - Cargando y descargando espacios de nombres
+Reserved - Palabras reservadas en R
+reserved - Palabras reservadas en R
+restartDescription - Manejo de condiciones y recuperación
+restartFormals - Manejo de condiciones y recuperación
+retracemem - Copia de seguimiento de objetos
+return - Definición de función
+returnValue - Seguimiento interactivo y depuración de llamadas a una función o método
+rev - Elementos inversos
+rle - Codificación de longitud de ejecución
+rm - Eliminar objetos de un entorno específico
+RNG - Generación de números aleatorios
+RNGkind - Generación de números aleatorios
+RNGversion - Generación de números aleatorios
+round - Redondeo de números
+round.Date - Redondear/truncar objetos de fecha y hora
+round.POSIXt - Redondear/truncar objetos de fecha y hora
+row - Índices de filas
+row.names - Obtener y establecer nombres de filas para marcos de datos
+rowMeans - Formar sumas y medias de filas y columnas
+rownames - Nombres de filas y columnas
+rowsum - Proporcionar sumas de columnas de una matriz o marco de datos, según una variable de agrupación
+rowSums - Formar sumas y medias de filas y columnas
+Rprofile - Inicialización al inicio de una sesión de R
+Rprofile.site - Inicialización al inicio de una sesión de R
+R_BATCH - Variables de entorno
+R_BROWSER - Variables de entorno
+R_compiled_by - Información de versión
+R_COMPLETION - Variables de entorno
+R_C_BOUNDS_CHECK - Configuración de opciones
+R_DEFAULT_DEVICE - Configuración de opciones
+R_DEFAULT_PACKAGES - Inicialización al inicio de una sesión de R
+R_DOC_DIR - Variables de entorno
+R_ENVIRON - Inicialización al inicio de una sesión de R
+R_ENVIRON_USER - Inicialización al inicio de una sesión de R
+R_GCTORTURE - Recolector de basura de tortura
+R_GCTORTURE_INHIBIT_RELEASE - Recolector de basura de tortura
+R_GCTORTURE_WAIT - Recolector de basura de tortura
+R_GSCMD - Variables de entorno
+R_HISTFILE - Variables de entorno
+R_HISTSIZE - Variables de entorno
+R_HOME - Devolver el directorio de inicio de R
+R_ICU_LOCALE - Configuración de recopilación por UCI
+R_INCLUDE_DIR - Variables de entorno
+R_INTERACTIVE_DEVICE - Configuración de opciones
+R_KEEP_PKG_SOURCE - Configuración de opciones
+R_LIBS - Rutas de búsqueda para paquetes
+R_LIBS_SITE - Rutas de búsqueda para paquetes
+R_LIBS_USER - Rutas de búsqueda para paquetes
+R_MAX_NUM_DLLS - Interfaz de función externa
+R_PAPERSIZE - Variables de entorno
+R_PCRE_JIT_STACK_MAXSIZE - Variables de entorno
+R_PDFVIEWER - Variables de entorno
+R_PLATFORM - Variables de entorno
+R_PRINTCMD - Variables de entorno
+R_PROFILE - Inicialización al inicio de una sesión de R
+R_PROFILE_USER - Inicialización al inicio de una sesión de R
+R_RD4PDF - Variables de entorno
+R_SHARE_DIR - Variables de entorno
+R_SUPPORT_OLD_TARS - Variables de entorno
+R_system_version - Versiones numéricas
+R_TEXI2DVICMD - Variables de entorno
+R_TIDYCMD - Variables de entorno
+R_UNZIPCMD - Variables de entorno
+R_USER - Variables de entorno
+R_ZIPCMD - Variables de entorno
+S3groupGeneric - Funciones genéricas del grupo S3
+S3Methods - Métodos de clase
+S4 - Prueba para un objeto S4
+sample - Muestras aleatorias y permutaciones
+sapply - Aplicar una función sobre una lista o vector
+save - Guardar objetos R
+saveRDS - Interfaz de serialización para objetos individuales
+scale - Escalado y centrado de objetos tipo matriz
+scan - Leer valores de datos
+search - Proporcionar ruta de búsqueda para objetos R
+searchpaths - Proporcionar ruta de búsqueda para objetos R
+seek - Funciones para reposicionar conexiones
+seq - Generación de secuencia
+seq.Date - Generar secuencias regulares de fechas
+seq.POSIXt - Generar secuencias regulares de tiempos
+sequence - Crear un vector de secuencias
+seq_along - Generación de secuencia
+seq_len - Generación de secuencia
+serialize - Interfaz de serialización simple
+serverSocket - Funciones para manipular conexiones (archivos, URL, ...)
+set.seed - Generación de números aleatorios
+setdiff - Establecer operaciones
+setequal - Establecer operaciones
+setHook - Funciones para Obtener y Colocar Ganchos para Cargar, Enganchar, Desenganchar y Descargar
+setSessionTimeLimit - Establecer límites de CPU y/o tiempo transcurrido
+setTimeLimit - Establecer límites de CPU y/o tiempo transcurrido
+setwd - Obtener o configurar el directorio de trabajo
+shell - Invocar un comando del sistema
+showConnections - Conexiones de pantalla
+shQuote - Cadenas de comillas para uso en shells de sistema operativo
+sign - Función de signo
+signalCondition - Manejo de condiciones y recuperación
+Signals - Interrumpir la ejecución de R
+signif - Redondeo de números
+simpleCondition - Manejo de condiciones y recuperación
+simpleError - Manejo de condiciones y recuperación
+simpleMessage - Manejo de condiciones y recuperación
+simpleWarning - Manejo de condiciones y recuperación
+simplify2array - Aplicar una función sobre una lista o vector
+sin - Funciones trigonométricas
+single - Vectores de doble precisión
+sinh - Funciones hiperbólicas
+sink - Enviar salida R a un archivo
+sinpi - Funciones trigonométricas
+slice.index - Cortar índices en una matriz
+socketAccept - Funciones para manipular conexiones (archivos, URL, ...)
+socketConnection - Funciones para manipular conexiones (archivos, URL, ...)
+socketSelect - Esperar en las conexiones del zócalo
+socketTimeout - Funciones para manipular conexiones (archivos, URL, ...)
+solve - Resolver un sistema de ecuaciones
+solve.qr - La descomposición QR de una matriz
+sort - Ordenar u ordenar vectores
+sort.list - Ordenar permutación
+source - Leer código R de un archivo, una conexión o expresiones
+Special - Funciones especiales de las matemáticas
+split - Dividir en grupos y volver a montar
+split.Date - Fecha Clase
+split.POSIXct - Clases de fecha y hora
+sprintf - Utilice comandos de formato de cadenas estilo C
+sqrt - Funciones matemáticas diversas
+sQuote - Texto de cotización
+srcfile - Referencias a archivos fuente y código
+srcfile-class - Referencias a archivos fuente y código
+srcfilealias - Referencias a archivos fuente y código
+srcfilealias-class - Referencias a archivos fuente y código
+srcfilecopy - Referencias a archivos fuente y código
+srcfilecopy-class - Referencias a archivos fuente y código
+srcref - Referencias a archivos fuente y código
+srcref-class - Referencias a archivos fuente y código
+stackOverflowError - Errores de desbordamiento de pila
+StackOverflows - Errores de desbordamiento de pila
+standardGeneric - Sistema de método formal: envío de métodos S4
+startsWith - ¿La cadena comienza o termina con otra cadena?
+Startup - Inicialización al inicio de una sesión de R
+stderr - Conexiones de pantalla
+stdin - Conexiones de pantalla
+stdout - Conexiones de pantalla
+stop - Detener la ejecución de la función
+stopifnot - Garantizar la veracidad de las expresiones R
+storage.mode - El modo (de almacenamiento) de un objeto
+str.POSIXt - Clases de fecha y hora
+str2expression - Analizar expresiones R
+str2lang - Analizar expresiones R
+strftime - Funciones de conversión de fecha y hora hacia y desde caracteres
+strptime - Funciones de conversión de fecha y hora hacia y desde caracteres
+strrep - Repetir los elementos de un vector de caracteres
+strsplit - Dividir los elementos de un vector de caracteres
+strtoi - Convertir cadenas en números enteros
+strtrim - Recortar cadenas de caracteres a anchos de visualización especificados
+structure - Especificación de atributos
+strwrap - Ajustar cadenas de caracteres para dar formato a párrafos
+sub - Coincidencia y reemplazo de patrones
+Subscript - Extraer o reemplazar partes de un objeto
+subset - Subconjunto de vectores, matrices y marcos de datos
+substitute - Sustituir y citar expresiones
+substr - Subcadenas de un vector de caracteres
+substring - Subcadenas de un vector de caracteres
+sum - Suma de elementos vectoriales
+Summary - Funciones genéricas del grupo S3
+summary - Resúmenes de objetos
+summary.connection - Funciones para manipular conexiones (archivos, URL, ...)
+Summary.Date - Fecha Clase
+summary.Date - Fecha Clase
+Summary.difftime - Intervalos de tiempo / diferencias
+Summary.factor - Factores
+Summary.numeric_version - Versiones numéricas
+Summary.ordered - Factores
+Summary.POSIXct - Clases de fecha y hora
+summary.POSIXct - Clases de fecha y hora
+Summary.POSIXlt - Clases de fecha y hora
+summary.proc_time - Tiempo de ejecución de R
+summary.srcfile - Referencias a archivos fuente y código
+summary.srcref - Referencias a archivos fuente y código
+summary.table - Tabulación cruzada y creación de tablas
+summary.warnings - Imprimir mensajes de advertencia
+suppressMessages - Mensajes de diagnóstico
+suppressPackageStartupMessages - Mensajes de diagnóstico
+suppressWarnings - Mensajes de advertencia
+suspendInterrupts - Manejo de condiciones y recuperación
+svd - Descomposición de valores singulares de una matriz
+sweep - Barrer resúmenes de matrices
+switch - Seleccione una de una lista de alternativas
+symbol - Nombres y símbolos
+Syntax - Sintaxis y precedencia del operador
+Sys.chmod - Manipulación de directorios y permisos de archivos
+Sys.Date - Obtener fecha y hora actuales
+Sys.getenv - Obtener variables de entorno
+Sys.getlocale - Consultar o establecer aspectos de la configuración regional
+Sys.getpid - Obtenga el ID del proceso de la sesión R
+Sys.glob - Expansión comodín en rutas de archivos
+Sys.info - Extraer información del sistema y del usuario
+Sys.localeconv - Encuentre detalles de las representaciones numéricas y monetarias en la ubicación actual
+sys.on.exit - Funciones para acceder a la pila de llamadas de funciones
+sys.parent - Funciones para acceder a la pila de llamadas de funciones
+Sys.readlink - Leer enlaces simbólicos de archivos
+Sys.setenv - Establecer o desarmar variables de entorno
+Sys.setFileTime - Establecer tiempo de archivo
+Sys.setLanguage - Traducir mensajes de texto
+Sys.setlocale - Consultar o establecer aspectos de la configuración regional
+Sys.sleep - Suspender la ejecución por un intervalo de tiempo
+sys.source - Analizar y evaluar expresiones de un archivo
+sys.status - Funciones para acceder a la pila de llamadas de funciones
+Sys.time - Obtener fecha y hora actuales
+Sys.timezone - Zonas horarias
+Sys.umask - Manipulación de directorios y permisos de archivos
+Sys.unsetenv - Establecer o desarmar variables de entorno
+Sys.which - Encuentre rutas completas a ejecutables
+system - Invocar un comando del sistema
+system.file - Buscar nombres de archivos del sistema R
+system.time - Tiempo de CPU utilizado
+system2 - Invocar un comando del sistema
+table - Tabulación cruzada y creación de tablas
+tabulate - Tabulación de vectores
+tan - Funciones trigonométricas
+tanh - Funciones hiperbólicas
+tanpi - Funciones trigonométricas
+tapply - Aplicar una función sobre una matriz irregular
+taskCallbackManager - Crear un administrador de devolución de llamadas de tareas de nivel R
+tcrossprod - Producto cruzado de matriz
+tempdir - Crear nombres para archivos temporales
+tempfile - Crear nombres para archivos temporales
+textConnection - Conexiones de texto
+textConnectionValue - Conexiones de texto
+tilde - Operador tilde
+tilde expansion - Expandir rutas de archivos
+time interval - Intervalos de tiempo / diferencias
+time zone - Zonas horarias
+time zones - Zonas horarias
+timezone - Zonas horarias
+timezones - Zonas horarias
+TMPDIR - Variables de entorno
+tolower - Traducción de personajes y plegado de casos
+topenv - Entorno de nivel superior
+toString - Convertir un objeto R en una cadena de caracteres
+toupper - Traducción de personajes y plegado de casos
+trace - Seguimiento interactivo y depuración de llamadas a una función o método
+traceback - Obtener e imprimir pilas de llamadas
+tracemem - Copia de seguimiento de objetos
+tracingState - Seguimiento interactivo y depuración de llamadas a una función o método
+transform - Transformar un objeto, por ejemplo un marco de datos
+Trig - Funciones trigonométricas
+trigamma - Funciones especiales de las matemáticas
+trimws - Eliminar espacios en blanco iniciales/finales
+TRUE - Vectores lógicos
+trunc - Redondeo de números
+trunc.Date - Redondear/truncar objetos de fecha y hora
+trunc.POSIXt - Redondear/truncar objetos de fecha y hora
+truncate - Funciones para reposicionar conexiones
+try - Pruebe una expresión que permita la recuperación de errores
+tryCatch - Manejo de condiciones y recuperación
+tryInvokeRestart - Manejo de condiciones y recuperación
+type - El tipo de objeto
+typeof - El tipo de objeto
+TZ - Zonas horarias
+TZDIR - Zonas horarias
+umask - Manipulación de directorios y permisos de archivos
+unCfillPOSIXlt - Equilibrio de fechas y horas POSIXlt "irregulares" y fuera de rango
+unclass - Clases de objetos
+undebug - Depurar una función
+Unicode - Convertir vectores enteros hacia o desde vectores de caracteres codificados en UTF-8
+union - Establecer operaciones
+unique - Extraer elementos únicos
+unique.numeric_version - Versiones numéricas
+unique.POSIXlt - Clases de fecha y hora
+unique.warnings - Imprimir mensajes de advertencia
+units - Unidades
+units.difftime - Intervalos de tiempo / diferencias
+unlink - Eliminar archivos y directorios
+unlist - Aplanar listas
+unloadNamespace - Cargando y descargando espacios de nombres
+unlockBinding - Encuadernación y bloqueo ambiental, vinculaciones activas
+unname - Eliminar 'nombres' o 'dimnames'
+unserialize - Interfaz de serialización simple
+unsplit - Dividir en grupos y volver a montar
+untrace - Seguimiento interactivo y depuración de llamadas a una función o método
+untracemem - Copia de seguimiento de objetos
+unz - Funciones para manipular conexiones (archivos, URL, ...)
+upper.tri - Parte triangular inferior y superior de una matriz
+url - Funciones para manipular conexiones (archivos, URL, ...)
+UseMethod - Métodos de clase
+UTF-8 file path - Rutas de archivos que no están en la codificación nativa
+utf8ToInt - Convertir vectores enteros hacia o desde vectores de caracteres codificados en UTF-8
+validEnc - Comprobar si un vector de caracteres está codificado válidamente
+validUTF8 - Comprobar si un vector de caracteres está codificado válidamente
+vapply - Aplicar una función sobre una lista o vector
+vector - Vectores - Creación, Coerción, etc.
+Vectorize - Vectorizar una función escalar
+version - Información de versión
+warning - Mensajes de advertencia
+warningCondition - Manejo de condiciones y recuperación
+warnings - Imprimir mensajes de advertencia
+weekdays - Extraer partes de un objeto POSIXt o de fecha
+which - ¿Qué índices son VERDADEROS?
+which.max - ¿Dónde está Min() o Max() o el primer VERDADERO o FALSO?
+which.min - ¿Dónde está Min() o Max() o el primer VERDADERO o FALSO?
+while - Controlar el flujo
+with - Evaluar una expresión en un entorno de datos
+withAutoprint - Leer código R de un archivo, una conexión o expresiones
+withCallingHandlers - Manejo de condiciones y recuperación
+within - Evaluar una expresión en un entorno de datos
+withRestarts - Manejo de condiciones y recuperación
+withVisible - Devolver tanto un valor como su visibilidad
+write - Escribir datos en un archivo
+write.dcf - Leer y escribir datos en formato DCF
+writeBin - Transferir datos binarios hacia y desde conexiones
+writeChar - Transferir cadenas de caracteres hacia y desde conexiones
+writeLines - Escribir líneas en una conexión
+xor - Operadores lógicos
+xtfrm - Función auxiliar para ordenar y clasificar
+xtfrm.numeric_version - Versiones numéricas
+xzfile - Funciones para manipular conexiones (archivos, URL, ...)
+zapsmall - Redondeo de números: reducir los pequeños a cero
+!.hexmode - Números enteros mostrados en hexadecimal
+!.octmode - Números enteros mostrados en octal
+!= - Operadores relacionales
+$.DLLInfo - Obtener archivos DLL cargados en la sesión actual
+$.package_version - Versiones numéricas
+$<- - Extraer o reemplazar partes de un objeto
+$<-.data.frame - Extraer o reemplazar partes de un marco de datos
+$<-.POSIXlt - Clases de fecha y hora
+%% - Operadores aritméticos
+%*% - Multiplicación de matrices
+%/% - Operadores aritméticos
+%in% - Coincidencia de valores
+%o% - Producto externo de matrices
+%x% - Productos Kronecker en matrices
+&& - Operadores lógicos
+&.hexmode - Números enteros mostrados en hexadecimal
+&.octmode - Números enteros mostrados en octal
+** - Operadores aritméticos
+*.difftime - Intervalos de tiempo / diferencias
++.Date - Operadores en la clase de fecha
++.POSIXt - Clases de fecha y hora
+-.Date - Operadores en la clase de fecha
+-.POSIXt - Clases de fecha y hora
+-> - Operadores de asignación
+->> - Operadores de asignación
+... - ..., '..1', etc. utilizados en Funciones
+...elt - ..., '..1', etc. utilizados en Funciones
+...length - ..., '..1', etc. utilizados en Funciones
+...names - ..., '..1', etc. utilizados en Funciones
+..1 - ..., '..1', etc. utilizados en Funciones
+..2 - ..., '..1', etc. utilizados en Funciones
+..deparseOpts - Opciones para la separación de expresiones
+.Autoloaded - Carga de paquetes bajo demanda
+.AutoloadEnv - Carga de paquetes bajo demanda
+.BaseNamespaceEnv - Acceso al entorno
+.bincode - Bin un vector numérico
+.C - Interfaz de función externa
+.Call - Interfaces modernas para código C/C++
+.Class - Métodos de clase
+.class2 - Clases de objetos
+.col - Índices de columnas
+.colMeans - Formar sumas y medias de filas y columnas
+.colSums - Formar sumas y medias de filas y columnas
+.conflicts.OK - Adjunte un conjunto de objetos R a la ruta de búsqueda
+.Defunct - Marcar objetos como difuntos
+.deparseOpts - Opciones para la separación de expresiones
+.Deprecated - Marcar objetos como obsoletos
+.Device - Listas de dispositivos gráficos abiertos/activos
+.Devices - Listas de dispositivos gráficos abiertos/activos
+.doTrace - Seguimiento interactivo y depuración de llamadas a una función o método
+.dynLibs - Cargando archivos DLL desde paquetes
+.External - Interfaces modernas para código C/C++
+.First - Inicialización al inicio de una sesión de R
+.First.sys - Inicialización al inicio de una sesión de R
+.format.zeros - Formateo usando formatos de estilo C
+.Fortran - Interfaz de función externa
+.Generic - Métodos de clase
+.GlobalEnv - Acceso al entorno
+.Group - Funciones genéricas del grupo S3
+.handleSimpleError - Manejo de condiciones y recuperación
+.Internal - Llamar a una función interna
+.isOpen - Referencias a archivos fuente y código
+.kappa_tri - Calcular o estimar el número de condición de una matriz
+.Last - Terminar una sesión de R
+.Last.lib - Ganchos para eventos de espacio de nombres
+.Last.sys - Terminar una sesión de R
+.Last.value - Valor de la última expresión evaluada
+.LC.categories - Consultar o establecer aspectos de la configuración regional
+.leap.seconds - Clases de fecha y hora
+.libPaths - Rutas de búsqueda para paquetes
+.Library - Rutas de búsqueda para paquetes
+.Library.site - Rutas de búsqueda para paquetes
+.Machine - Características numéricas de la máquina
+.makeMessage - Mensajes de diagnóstico
+.mapply - Aplicar una función a múltiples listas o argumentos vectoriales
+.Method - Métodos de clase
+.noGenerics - Cargando/Adjuntando y Listado de Paquetes
+.NotYetImplemented - Funciones aún no implementadas y argumentos no utilizados
+.NotYetUsed - Funciones aún no implementadas y argumentos no utilizados
+.onAttach - Ganchos para eventos de espacio de nombres
+.onDetach - Ganchos para eventos de espacio de nombres
+.onLoad - Ganchos para eventos de espacio de nombres
+.onUnload - Ganchos para eventos de espacio de nombres
+.Options - Configuración de opciones
+.OptRequireMethods - Inicialización al inicio de una sesión de R
+.packages - Listado de paquetes
+.Platform - Variables específicas de la plataforma
+.pretty - Bonitos puntos de interrupción
+.Primitive - Buscar una función primitiva
+.Random.seed - Generación de números aleatorios
+.Renviron - Inicialización al inicio de una sesión de R
+.row - Índices de filas
+.rowMeans - Formar sumas y medias de filas y columnas
+.rowSums - Formar sumas y medias de filas y columnas
+.Rprofile - Inicialización al inicio de una sesión de R
+.S3method - Registrar métodos S3
+.S3PrimitiveGenerics - Funciones genéricas internas
+.signalSimpleWarning - Manejo de condiciones y recuperación
+.standard_regexps - Diversas utilidades internas/de programación
+.sys.timezone - Zonas horarias
+.Traceback - Obtener e imprimir pilas de llamadas
+.traceback - Obtener e imprimir pilas de llamadas
+.tryResumeInterrupt - Manejo de condiciones y recuperación
+.userHooksEnv - Funciones para Obtener y Colocar Ganchos para Cargar, Enganchar, Desenganchar y Descargar
+.valid.factor - Factores
+/.difftime - Intervalos de tiempo / diferencias
+0x1 - Constantes numéricas
+1i - Constantes numéricas
+1L - Constantes numéricas
+:: - Operadores de dos puntos y tres puntos
+::: - Operadores de dos puntos y tres puntos
+<- - Operadores de asignación
+<<- - Operadores de asignación
+<= - Operadores relacionales
+== - Operadores relacionales
+>= - Operadores relacionales
+@<- - Extraer o reemplazar una ranura o propiedad
+[.AsIs - Inhibir la interpretación/conversión de objetos
+[.data.frame - Extraer o reemplazar partes de un marco de datos
+[.Date - Fecha Clase
+[.difftime - Intervalos de tiempo / diferencias
+[.Dlist - Extraer o reemplazar partes de un objeto
+[.DLLInfoList - Obtener archivos DLL cargados en la sesión actual
+[.factor - Extraer o reemplazar partes de un factor
+[.hexmode - Números enteros mostrados en hexadecimal
+[.listof - Extraer o reemplazar partes de un objeto
+[.noquote - Clase para impresión 'sin comillas' de cadenas de caracteres
+[.numeric_version - Versiones numéricas
+[.octmode - Números enteros mostrados en octal
+[.POSIXct - Clases de fecha y hora
+[.POSIXlt - Clases de fecha y hora
+[.simple.list - Extraer o reemplazar partes de un objeto
+[.table - Tabulación cruzada y creación de tablas
+[.warnings - Imprimir mensajes de advertencia
+[<- - Extraer o reemplazar partes de un objeto
+[<-.data.frame - Extraer o reemplazar partes de un marco de datos
+[<-.Date - Fecha Clase
+[<-.difftime - Intervalos de tiempo / diferencias
+[<-.factor - Extraer o reemplazar partes de un factor
+[<-.numeric_version - Versiones numéricas
+[<-.POSIXct - Clases de fecha y hora
+[<-.POSIXlt - Clases de fecha y hora
+[[ - Extraer o reemplazar partes de un objeto
+[[.data.frame - Extraer o reemplazar partes de un marco de datos
+[[.Date - Fecha Clase
+[[.factor - Extraer o reemplazar partes de un factor
+[[.numeric_version - Versiones numéricas
+[[.POSIXct - Clases de fecha y hora
+[[.POSIXlt - Clases de fecha y hora
+|.hexmode - Números enteros mostrados en hexadecimal
+|.octmode - Números enteros mostrados en octal
+|> - Operador de tubería delantera
+|| - Operadores lógicos

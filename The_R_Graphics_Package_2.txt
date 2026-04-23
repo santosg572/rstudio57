@@ -1,0 +1,98 @@
+graphics-package - El paquete de gráficos R
+.filled.contour - Gráficos de nivel (contorno)
+.Pars - Establecer o consultar parámetros gráficos
+abline - Agregar líneas rectas a una trama
+arrows - Agregar flechas a un gráfico
+asp - Configurar coordenadas mundiales para la ventana de gráficos
+assocplot - Parcelas de asociación
+Axis - Función genérica para agregar un eje a un gráfico
+axis - Agregar un eje a un gráfico
+axis.POSIXct - Funciones de trazado de fecha y fecha y hora
+axTicks - Calcular las ubicaciones de las marcas de graduación del eje
+barplot - Parcelas de barras
+box - Dibujar un cuadro alrededor de una trama
+boxplot - Diagramas de caja
+boxplot.matrix - Dibuje un diagrama de caja para cada columna (fila) de una matriz
+bxp - Dibujar diagramas de caja a partir de resúmenes
+cdplot - Gráficos de densidad condicional
+clip - Establecer región de recorte
+close.screen - Crear y controlar varias pantallas en un solo dispositivo
+co.intervals - Acondicionamiento de parcelas
+contour - Mostrar contornos
+coplot - Acondicionamiento de parcelas
+curve - Dibujar gráficos de funciones
+dotchart - Gráficos de puntos de Cleveland
+erase.screen - Crear y controlar varias pantallas en un solo dispositivo
+filled.contour - Gráficos de nivel (contorno)
+fourfoldplot - Tramas cuádruples
+frame - Crear/iniciar un nuevo marco de trazado
+graphical parameter - Establecer o consultar parámetros gráficos
+graphical parameters - Establecer o consultar parámetros gráficos
+graphics - El paquete de gráficos R
+grconvertX - Convertir entre sistemas de coordenadas de gráficos
+grconvertY - Convertir entre sistemas de coordenadas de gráficos
+grid - Agregar cuadrícula a una gráfica
+hist - Histogramas
+hist.POSIXt - Histograma de un objeto de fecha o fecha-hora
+identify - Identificar puntos en un diagrama de dispersión
+image - Mostrar una imagen en color
+layout - Especificación de disposiciones complejas de la trama
+lcm - Especificación de disposiciones complejas de la trama
+legend - Agregar leyendas a las tramas
+lines - Agregar segmentos de línea conectados a un gráfico
+lines.formula - Notación de fórmulas para diagramas de dispersión
+lines.histogram - Trazar histogramas
+lines.table - Trazar métodos para objetos de 'tabla'
+locator - Entrada gráfica
+matlines - Trazar columnas de matrices
+matplot - Trazar columnas de matrices
+matpoints - Trazar columnas de matrices
+mosaicplot - Parcelas de mosaico
+mtext - Escribir texto en los márgenes de una trama
+pairs - Matrices de diagrama de dispersión
+panel.smooth - Gráfico de panel simple
+par - Establecer o consultar parámetros gráficos
+pch - Agregar puntos a una trama
+persp - Parcelas en perspectiva
+pie - Gráficos circulares
+plot.data.frame - Método de trazado para marcos de datos
+plot.default - La función de diagrama de dispersión predeterminada
+plot.design - Trazar efectos univariados de un diseño o modelo
+plot.factor - Trazado de variables de factores
+plot.formula - Notación de fórmulas para diagramas de dispersión
+plot.function - Dibujar gráficos de funciones
+plot.histogram - Trazar histogramas
+plot.new - Crear/iniciar un nuevo marco de trazado
+plot.raster - Trazado de imágenes rasterizadas
+plot.table - Trazar métodos para objetos de 'tabla'
+plot.window - Configurar coordenadas mundiales para la ventana de gráficos
+plot.xy - Función básica de trama interna
+points - Agregar puntos a una trama
+points.formula - Notación de fórmulas para diagramas de dispersión
+points.table - Trazar métodos para objetos de 'tabla'
+polygon - Polígono Dibujo
+polypath - Dibujo De Camino
+rasterImage - Dibujar una o más imágenes rasterizadas
+rect - Dibujar uno o más rectángulos
+rug - Agregar una alfombra a una parcela
+screen - Crear y controlar varias pantallas en un solo dispositivo
+segments - Agregar segmentos de línea a un gráfico
+smoothScatter - Diagramas de dispersión con representación de color de densidades suavizadas
+spineplot - Gráficos de columna y espinogramas
+split.screen - Crear y controlar varias pantallas en un solo dispositivo
+stars - Gráficos de estrellas (araña/radar) y diagramas de segmentos
+stem - Diagramas de tallo y hojas
+strheight - Trazado de dimensiones de cadenas de caracteres y expresiones matemáticas
+stripchart - Gráficos de dispersión 1-D
+strwidth - Trazado de dimensiones de cadenas de caracteres y expresiones matemáticas
+sunflowerplot - Producir un diagrama de dispersión de girasol
+symbols - Dibujar símbolos (círculos, cuadrados, estrellas, termómetros, diagramas de caja)
+text - Agregar texto a una trama
+text.formula - Notación de fórmulas para diagramas de dispersión
+title - Anotación de trama
+xinch - Unidades gráficas
+xlim - Configurar coordenadas mundiales para la ventana de gráficos
+xspline - Dibujar un X-spline
+xyinch - Unidades gráficas
+yinch - Unidades gráficas
+ylim - Configurar coordenadas mundiales para la ventana de gráficos

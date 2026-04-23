@@ -1,0 +1,43 @@
+---
+title: "RESUMEN DE FORMULAS"
+---
+
+1.  **Fórmulas de Algebra y de Geometría elementales**. Para comodidad del estudiante, en los Artículos 1 a 4 damos un resumen de fórmulas elementales. Empezaremos por las relativas al Algebra.
+
+<!-- -->
+
+(1) Resolución de la ecuación de segundo grado
+
+$$
+Ax^2 + Ex + C = O.
+$$
+
+1.  *Factorizando*: Se descompone $Ax^2 + Bx + C$ en factores, se iguala cada factor a cero y se resuelven las ecuaciones que resultan, con respecto a $x$.
+
+2.  Completando el cuadrado: Se transpone C al segundo miembro, se divide la ecuación por el coeficiente de $x^2$ , se añade a ambos miembros el cuadrado de la mitad del coeficiente de $x$ y se extrae la raíz cuadrada.
+
+3.  Empleando la fórmula
+
+$$
+x = \frac{-B \pm \sqrt{B^2 - 4AC}}{2A}
+$$
+
+*Carácter de las raíces*. La expresión $B^2 - 4 AC$, que aparece en la fórmula debajo del signo radical, se llama **discriminante** de la ecuación. Las dos raíces son reales y desiguales, reales e iguales, o imaginarias, según que el discriminante sea positivo, cero o negativo.
+
+(2) **Logaritmos**.
+
+$$
+\log ab = \log a + \log b .
+$$
+
+$$
+\log a^n = n \log a.
+$$
+
+log a" = n log a.
+
+a ." /- 1 log b = log a - log b . log v a = - log a. n
+
+log 1 = O.
+
+loga a = 1.

@@ -1,0 +1,210 @@
+The R Graphics Devices and Support for Colours and Fonts [R logo]
+[Up] [Top]
+Documentation for package ‘grDevices’ version 4.3.1
+DESCRIPTION file.
+Code demos. Use demo() to run them.
+Help Pages
+A B C D E F G H I J M N O P Q R S T U W X misc
+
+grDevices-package	The R Graphics Devices and Support for Colours and Fonts
+-- A --
+adjustcolor	Adjust Colors in One or More Directions Conveniently.
+as.graphicsAnnot	Coerce an Object for Graphics Annotation
+as.raster	Create a Raster Object
+as.raster.array	Create a Raster Object
+as.raster.character	Create a Raster Object
+as.raster.logical	Create a Raster Object
+as.raster.matrix	Create a Raster Object
+as.raster.numeric	Create a Raster Object
+as.raster.raw	Create a Raster Object
+atop	Mathematical Annotation in R
+axisTicks	Compute Pretty Axis Tick Scales
+-- B --
+bar	Mathematical Annotation in R
+bgroup	Mathematical Annotation in R
+bitmap	Graphics Device for Bitmap Files via Ghostscript
+blues9	Colors for Smooth Density Plots
+bmp	BMP, JPEG, PNG and TIFF graphics devices
+bold	Mathematical Annotation in R
+bolditalic	Mathematical Annotation in R
+boxplot.stats	Box Plot Statistics
+bringToTop	Assign Focus to a Window
+-- C --
+cairoSymbolFont	Specify a Symbol Font
+cairo_pdf	Cairographics-based SVG, PDF and PostScript Graphics Devices
+cairo_ps	Cairographics-based SVG, PDF and PostScript Graphics Devices
+check.options	Set Options with Consistency Checks
+chull	Compute Convex Hull of a Set of Points
+CIDFont	Type 1 and CID Fonts
+cm	Unit Transformation
+cm.colors	Color Palettes
+col2rgb	Color to RGB Conversion
+colorConverter	Create colour spaces
+colorRamp	Color interpolation
+colorRampPalette	Color interpolation
+colors	Color Names
+colorspaces	Convert between Colour Spaces
+colours	Color Names
+contourLines	Calculate Contour Lines
+convertColor	Convert between Colour Spaces
+-- D --
+densCols	Colors for Smooth Density Plots
+dev.capabilities	Query Capabilities of the Current Graphics Device
+dev.capture	Capture device output as a raster image
+dev.control	Copy Graphics Between Multiple Devices
+dev.copy	Copy Graphics Between Multiple Devices
+dev.copy2eps	Copy Graphics Between Multiple Devices
+dev.copy2pdf	Copy Graphics Between Multiple Devices
+dev.cur	Control Multiple Devices
+dev.flush	Hold or Flush Output on an On-Screen Graphics Device.
+dev.hold	Hold or Flush Output on an On-Screen Graphics Device.
+dev.interactive	Is the Current Graphics Device Interactive?
+dev.list	Control Multiple Devices
+dev.new	Control Multiple Devices
+dev.next	Control Multiple Devices
+dev.off	Control Multiple Devices
+dev.prev	Control Multiple Devices
+dev.print	Copy Graphics Between Multiple Devices
+dev.set	Control Multiple Devices
+dev.size	Find Size of Device Surface
+dev2bitmap	Graphics Device for Bitmap Files via Ghostscript
+devAskNewPage	Prompt before New Page
+device	List of Graphical Devices
+deviceIsInteractive	Is the Current Graphics Device Interactive?
+Devices	List of Graphical Devices
+displaystyle	Mathematical Annotation in R
+dot	Mathematical Annotation in R
+-- E --
+embedFonts	Embed Fonts in PostScript and PDF
+embedGlyphs	Embed Fonts in PostScript and PDF
+extendrange	Extend a Numerical Range by a Small Percentage
+-- F --
+frac	Mathematical Annotation in R
+-- G --
+getGraphicsEvent	Wait for a mouse or keyboard event from a graphics window
+getGraphicsEventEnv	Wait for a mouse or keyboard event from a graphics window
+glyphAnchor	Describe a Set of Typeset Glyphs.
+glyphFont	Describe a Set of Typeset Glyphs.
+glyphFontList	Describe a Set of Typeset Glyphs.
+glyphHeight	Describe a Set of Typeset Glyphs.
+glyphHeightBottom	Describe a Set of Typeset Glyphs.
+glyphInfo	Describe a Set of Typeset Glyphs.
+glyphJust	Describe a Set of Typeset Glyphs.
+glyphJust.character	Describe a Set of Typeset Glyphs.
+glyphJust.GlyphJust	Describe a Set of Typeset Glyphs.
+glyphJust.numeric	Describe a Set of Typeset Glyphs.
+glyphWidth	Describe a Set of Typeset Glyphs.
+glyphWidthLeft	Describe a Set of Typeset Glyphs.
+graphics.off	Control Multiple Devices
+gray	Gray Level Specification
+gray.colors	Gray Color Palette
+grDevices	The R Graphics Devices and Support for Colours and Fonts
+grey	Gray Level Specification
+grey.colors	Gray Color Palette
+group	Mathematical Annotation in R
+grSoftVersion	Report Versions of Graphics Software
+-- H --
+hat	Mathematical Annotation in R
+hcl	HCL Color Specification
+hcl.colors	Color Palettes
+hcl.pals	Color Palettes
+heat.colors	Color Palettes
+Hershey	Hershey Vector Fonts in R
+hsv	HSV Color Specification
+-- I --
+inf	Mathematical Annotation in R
+integral	Mathematical Annotation in R
+is.raster	Create a Raster Object
+italic	Mathematical Annotation in R
+-- J --
+Japanese	Japanese characters in R
+jpeg	BMP, JPEG, PNG and TIFF graphics devices
+-- M --
+make.rgb	Create colour spaces
+msgWindow	Manipulate a Window
+-- N --
+n2mfrow	Compute Default 'mfrow' From Number of Plots
+nclass.FD	Compute the Number of Classes for a Histogram
+nclass.scott	Compute the Number of Classes for a Histogram
+nclass.Sturges	Compute the Number of Classes for a Histogram
+-- O --
+over	Mathematical Annotation in R
+-- P --
+palette	Set or View the Graphics Palette
+palette.colors	Set or View the Graphics Palette
+palette.pals	Set or View the Graphics Palette
+pdf	PDF Graphics Device
+pdf.options	Auxiliary Function to Set/View Defaults for Arguments of pdf
+pdfFonts	PostScript and PDF Font Families
+phantom	Mathematical Annotation in R
+pictex	A PicTeX Graphics Driver
+plain	Mathematical Annotation in R
+plotmath	Mathematical Annotation in R
+png	BMP, JPEG, PNG and TIFF graphics devices
+postscript	PostScript Graphics
+postscriptFonts	PostScript and PDF Font Families
+pretty.Date	Pretty Breakpoints for Date-Time Classes
+pretty.POSIXt	Pretty Breakpoints for Date-Time Classes
+print.recordedplot	Record and Replay Plots
+print.SavedPlots	Windows Graphics Devices
+ps.options	Auxiliary Function to Set/View Defaults for Arguments of postscript
+-- Q --
+quartz	macOS Quartz Device
+quartz.options	macOS Quartz Device
+quartz.save	macOS Quartz Device
+quartzFont	Quartz Fonts Setup
+quartzFonts	Quartz Fonts Setup
+-- R --
+rainbow	Color Palettes
+recordGraphics	Record Graphics Operations
+recordPlot	Record and Replay Plots
+replayPlot	Record and Replay Plots
+rgb	RGB Color Specification
+rgb2hsv	RGB to HSV Conversion
+ring	Mathematical Annotation in R
+-- S --
+savePlot	Save Cairo X11 Plot to File
+scriptscriptstyle	Mathematical Annotation in R
+scriptstyle	Mathematical Annotation in R
+setEPS	Auxiliary Function to Set/View Defaults for Arguments of postscript
+setGraphicsEventEnv	Wait for a mouse or keyboard event from a graphics window
+setGraphicsEventHandlers	Wait for a mouse or keyboard event from a graphics window
+setPS	Auxiliary Function to Set/View Defaults for Arguments of postscript
+stayOnTop	Assign Focus to a Window
+sup	Mathematical Annotation in R
+svg	Cairographics-based SVG, PDF and PostScript Graphics Devices
+symbol	Mathematical Annotation in R
+-- T --
+terrain.colors	Color Palettes
+textstyle	Mathematical Annotation in R
+tiff	BMP, JPEG, PNG and TIFF graphics devices
+topo.colors	Color Palettes
+trans3d	3D to 2D Transformation for Perspective Plots
+Type1Font	Type 1 and CID Fonts
+-- U --
+underline	Mathematical Annotation in R
+-- W --
+widehat	Mathematical Annotation in R
+widetilde	Mathematical Annotation in R
+win.graph	Windows Graphics Devices
+win.metafile	Windows Graphics Devices
+win.print	Windows Graphics Devices
+windows	Windows Graphics Devices
+windows.options	Auxiliary Function to Set/View Defaults for Arguments of windows()
+windowsFont	Windows Fonts
+windowsFonts	Windows Fonts
+-- X --
+X11	X Window System Graphics (X11)
+x11	X Window System Graphics (X11)
+X11.options	X Window System Graphics (X11)
+X11Font	X11 Fonts
+X11Fonts	X11 Fonts
+xfig	XFig Graphics Device
+xy.coords	Extracting Plotting Structures
+xyTable	Multiplicities of (x,y) Points, e.g., for a Sunflower Plot
+xyz.coords	Extracting Plotting Structures
+-- misc --
+.axisPars	Compute Pretty Axis Tick Scales
+.ps.prolog	PostScript Graphics
+[.SavedPlots	Windows Graphics Devices
+

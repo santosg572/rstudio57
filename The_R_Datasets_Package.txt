@@ -1,0 +1,139 @@
+The R Datasets Package [R logo]
+[Up] [Top]
+Documentation for package ‘datasets’ version 4.3.1
+DESCRIPTION file.
+Help Pages
+A B C D E F H I J L M N O P Q R S T U V W
+
+datasets-package	The R Datasets Package
+-- A --
+ability.cov	Ability and Intelligence Tests
+airmiles	Passenger Miles on Commercial US Airlines, 1937-1960
+AirPassengers	Monthly Airline Passenger Numbers 1949-1960
+airquality	New York Air Quality Measurements
+anscombe	Anscombe's Quartet of 'Identical' Simple Linear Regressions
+attenu	The Joyner-Boore Attenuation Data
+attitude	The Chatterjee-Price Attitude Data
+austres	Quarterly Time Series of the Number of Australian Residents
+-- B --
+beaver1	Body Temperature Series of Two Beavers
+beaver2	Body Temperature Series of Two Beavers
+beavers	Body Temperature Series of Two Beavers
+BJsales	Sales Data with Leading Indicator
+BJsales.lead	Sales Data with Leading Indicator
+BOD	Biochemical Oxygen Demand
+-- C --
+cars	Speed and Stopping Distances of Cars
+ChickWeight	Weight versus age of chicks on different diets
+chickwts	Chicken Weights by Feed Type
+CO2	Carbon Dioxide Uptake in Grass Plants
+co2	Mauna Loa Atmospheric CO2 Concentration
+crimtab	Student's 3000 Criminals Data
+-- D --
+datasets	The R Datasets Package
+discoveries	Yearly Numbers of Important Discoveries
+DNase	Elisa assay of DNase
+-- E --
+esoph	Smoking, Alcohol and (O)esophageal Cancer
+euro	Conversion Rates of Euro Currencies
+euro.cross	Conversion Rates of Euro Currencies
+eurodist	Distances Between European Cities and Between US Cities
+EuStockMarkets	Daily Closing Prices of Major European Stock Indices, 1991-1998
+-- F --
+faithful	Old Faithful Geyser Data
+fdeaths	Monthly Deaths from Lung Diseases in the UK
+Formaldehyde	Determination of Formaldehyde
+freeny	Freeny's Revenue Data
+freeny.x	Freeny's Revenue Data
+freeny.y	Freeny's Revenue Data
+-- H --
+HairEyeColor	Hair and Eye Color of Statistics Students
+Harman23.cor	Harman Example 2.3
+Harman74.cor	Harman Example 7.4
+-- I --
+Indometh	Pharmacokinetics of Indomethacin
+infert	Infertility after Spontaneous and Induced Abortion
+InsectSprays	Effectiveness of Insect Sprays
+iris	Edgar Anderson's Iris Data
+iris3	Edgar Anderson's Iris Data
+islands	Areas of the World's Major Landmasses
+-- J --
+JohnsonJohnson	Quarterly Earnings per Johnson & Johnson Share
+-- L --
+LakeHuron	Level of Lake Huron 1875-1972
+ldeaths	Monthly Deaths from Lung Diseases in the UK
+lh	Luteinizing Hormone in Blood Samples
+LifeCycleSavings	Intercountry Life-Cycle Savings Data
+Loblolly	Growth of Loblolly pine trees
+longley	Longley's Economic Regression Data
+lynx	Annual Canadian Lynx trappings 1821-1934
+-- M --
+mdeaths	Monthly Deaths from Lung Diseases in the UK
+morley	Michelson Speed of Light Data
+mtcars	Motor Trend Car Road Tests
+-- N --
+nhtemp	Average Yearly Temperatures in New Haven
+Nile	Flow of the River Nile
+nottem	Average Monthly Temperatures at Nottingham, 1920-1939
+npk	Classical N, P, K Factorial Experiment
+-- O --
+occupationalStatus	Occupational Status of Fathers and their Sons
+Orange	Growth of Orange Trees
+OrchardSprays	Potency of Orchard Sprays
+-- P --
+PlantGrowth	Results from an Experiment on Plant Growth
+precip	Annual Precipitation in US Cities
+presidents	Quarterly Approval Ratings of US Presidents
+pressure	Vapor Pressure of Mercury as a Function of Temperature
+Puromycin	Reaction Velocity of an Enzymatic Reaction
+-- Q --
+quakes	Locations of Earthquakes off Fiji
+-- R --
+randu	Random Numbers from Congruential Generator RANDU
+rivers	Lengths of Major North American Rivers
+rock	Measurements on Petroleum Rock Samples
+-- S --
+Seatbelts	Road Casualties in Great Britain 1969-84
+sleep	Student's Sleep Data
+stack.loss	Brownlee's Stack Loss Plant Data
+stack.x	Brownlee's Stack Loss Plant Data
+stackloss	Brownlee's Stack Loss Plant Data
+state	US State Facts and Figures
+state.abb	US State Facts and Figures
+state.area	US State Facts and Figures
+state.center	US State Facts and Figures
+state.division	US State Facts and Figures
+state.name	US State Facts and Figures
+state.region	US State Facts and Figures
+state.x77	US State Facts and Figures
+sunspot.month	Monthly Sunspot Data, from 1749 to "Present"
+sunspot.year	Yearly Sunspot Data, 1700-1988
+sunspots	Monthly Sunspot Numbers, 1749-1983
+swiss	Swiss Fertility and Socioeconomic Indicators (1888) Data
+-- T --
+Theoph	Pharmacokinetics of Theophylline
+Titanic	Survival of passengers on the Titanic
+ToothGrowth	The Effect of Vitamin C on Tooth Growth in Guinea Pigs
+treering	Yearly Treering Data, -6000-1979
+trees	Diameter, Height and Volume for Black Cherry Trees
+-- U --
+UCBAdmissions	Student Admissions at UC Berkeley
+UKDriverDeaths	Road Casualties in Great Britain 1969-84
+UKgas	UK Quarterly Gas Consumption
+UKLungDeaths	Monthly Deaths from Lung Diseases in the UK
+USAccDeaths	Accidental Deaths in the US 1973-1978
+USArrests	Violent Crime Rates by US State
+UScitiesD	Distances Between European Cities and Between US Cities
+USJudgeRatings	Lawyers' Ratings of State Judges in the US Superior Court
+USPersonalExpenditure	Personal Expenditure Data
+uspop	Populations Recorded by the US Census
+-- V --
+VADeaths	Death Rates in Virginia (1940)
+volcano	Topographic Information on Auckland's Maunga Whau Volcano
+-- W --
+warpbreaks	The Number of Breaks in Yarn during Weaving
+women	Average Heights and Weights for American Women
+WorldPhones	The World's Telephones
+WWWusage	Internet Usage per Minute
+
+

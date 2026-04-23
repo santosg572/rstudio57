@@ -1,0 +1,367 @@
+stats-package - El paquete de estadísticas R
+acf - Estimación de funciones de correlación y covarianza automática y cruzada
+acf2AR - Calcule un proceso AR que se ajuste exactamente a un ACF
+add.scope - Calcular los cambios permitidos al agregar o eliminar una fórmula
+add1 - Agregar o eliminar todos los términos únicos posibles a un modelo
+addmargins - Pone márgenes arbitrarios en tablas o matrices multidimensionales
+aggregate - Calcular estadísticas resumidas de subconjuntos de datos
+AIC - Un criterio de información de Akaike
+alias - Buscar alias (dependencias) en un modelo
+anova - Mesas Anova
+anova.glm - Análisis de la desviación para ajustes de modelos lineales generalizados
+anova.lm - ANOVA para ajustes de modelos lineales
+anova.mlm - Comparaciones entre modelos lineales multivariados
+ansari.test - Prueba de Ansari-Bradley
+aov - Ajustar un modelo de análisis de varianza
+approx - Funciones de interpolación
+approxfun - Funciones de interpolación
+ar - Ajustar modelos autorregresivos a series temporales
+ar.burg - Ajustar modelos autorregresivos a series temporales
+ar.burg.default - Ajustar modelos autorregresivos a series temporales
+ar.mle - Ajustar modelos autorregresivos a series temporales
+ar.ols - Ajustar modelos autorregresivos a series temporales mediante OLS
+ar.yw - Ajustar modelos autorregresivos a series temporales
+ar.yw.default - Ajustar modelos autorregresivos a series temporales
+arima - Modelado ARIMA de series temporales
+arima.sim - Simular desde un modelo ARIMA
+arima0 - Modelado ARIMA de series temporales - Versión preliminar
+ARMAacf - Computar ACF teórico para un proceso ARMA
+ARMAtoMA - Convierta el proceso ARMA en un proceso MA infinito
+as.dendrogram - Estructuras generales de árboles
+as.dist - Cálculo de la matriz de distancia
+as.formula - Fórmulas modelo
+as.hclust - Convertir objetos a clase hclust
+as.hclust.dendrogram - Estructuras generales de árboles
+as.matrix.dist - Cálculo de la matriz de distancia
+as.stepfun - Funciones de paso: creación y clase
+as.ts - Objetos de series de tiempo
+asOneSidedFormula - Convertir a fórmula unilateral
+ave - Promedios de grupo sobre combinaciones de factores a nivel
+bandwidth.kernel - Suavizar objetos del kernel
+bartlett.test - Prueba de Bartlett de homogeneidad de varianzas
+Beta - La distribución Beta
+BIC - Un criterio de información de Akaike
+binom.test - Prueba binomial exacta
+Binomial - La distribución binomial
+binomial - Objetos familiares para modelos
+biplot - Biplot de datos multivariados
+biplot.princomp - Biplot para componentes principales
+Box.test - Pruebas Box-Pierce y Ljung-Box
+bw.bcv - Selectores de ancho de banda para la estimación de la densidad del kernel
+bw.nrd - Selectores de ancho de banda para la estimación de la densidad del kernel
+bw.nrd0 - Selectores de ancho de banda para la estimación de la densidad del kernel
+bw.SJ - Selectores de ancho de banda para la estimación de la densidad del kernel
+bw.ucv - Selectores de ancho de banda para la estimación de la densidad del kernel
+cancor - Correlaciones canónicas
+case.names - Nombres de casos y variables de modelos ajustados
+case.names.lm - Nombres de casos y variables de modelos ajustados
+Cauchy - La distribución de Cauchy
+cbind.ts - Objetos de series de tiempo
+ccf - Estimación de funciones de correlación y covarianza automática y cruzada
+chisq.test - Prueba de chi-cuadrado de Pearson para datos de recuento
+Chisquare - La distribución de chi cuadrado (no central)
+cmdscale - Escalamiento multidimensional clásico (métrico)
+coef - Extraer coeficientes del modelo
+coef.default - Extraer coeficientes del modelo
+coefficients - Extraer coeficientes del modelo
+complete.cases - Encuentre casos completos
+confint - Intervalos de confianza para los parámetros del modelo
+constrOptim - Optimización linealmente restringida
+contr.helmert - (Posiblemente escasas) Matrices de contraste
+contr.poly - (Posiblemente escasas) Matrices de contraste
+contr.SAS - (Posiblemente escasas) Matrices de contraste
+contr.sum - (Posiblemente escasas) Matrices de contraste
+contr.treatment - (Posiblemente escasas) Matrices de contraste
+contrasts - Obtener y establecer matrices de contraste
+convolve - Convolución de secuencias vía FFT
+cooks.distance - Diagnóstico de eliminación de regresión
+cooks.distance.lm - Diagnóstico de eliminación de regresión
+cophenetic - Distancias cofenéticas para una agrupación jerárquica
+cor - Correlación, Varianza y Covarianza (Matrices)
+cor.test - Prueba de asociación/correlación entre muestras pareadas
+cov - Correlación, Varianza y Covarianza (Matrices)
+cov.wt - Matrices de covarianza ponderadas
+cov2cor - Correlación, Varianza y Covarianza (Matrices)
+covratio - Diagnóstico de eliminación de regresión
+cpgram - Trazar periodograma acumulativo
+cut.dendrogram - Estructuras generales de árboles
+cutree - Cortar un árbol en grupos de datos
+cycle - Tiempos de muestreo de series temporales
+dbeta - La distribución Beta
+dbinom - La distribución binomial
+dcauchy - La distribución de Cauchy
+dchisq - La distribución de chi cuadrado (no central)
+decompose - Descomposición estacional clásica por medias móviles
+delete.response - Modificar objetos de términos
+deltat - Tiempos de muestreo de series temporales
+dendrapply - Aplicar una función a todos los nodos de un dendrograma
+dendrogram - Estructuras generales de árboles
+density - Estimación de la densidad del grano
+deriv - Derivadas simbólicas y algorítmicas de expresiones simples
+deriv3 - Derivadas simbólicas y algorítmicas de expresiones simples
+deviance - Desviación del modelo
+dexp - La distribución exponencial
+df - La distribución F
+df.kernel - Suavizar objetos del kernel
+df.residual - Grados de libertad residuales
+DF2formula - Fórmulas modelo
+dfbeta - Diagnóstico de eliminación de regresión
+dfbetas - Diagnóstico de eliminación de regresión
+dffits - Diagnóstico de eliminación de regresión
+dgamma - La distribución gamma
+dgeom - La distribución geométrica
+dhyper - La distribución hipergeométrica
+diff.ts - Métodos para objetos de series temporales
+diffinv - Integración discreta: inversa de la diferenciación
+dist - Cálculo de la matriz de distancia
+distribution - Distribuciones en el paquete de estadísticas.
+Distributions - Distribuciones en el paquete de estadísticas.
+distributions - Distribuciones en el paquete de estadísticas.
+dlnorm - La distribución normal logarítmica
+dlogis - La Distribución Logística
+dmultinom - La distribución multinomial
+dnbinom - La distribución binomial negativa
+dnorm - La distribución normal
+dpois - La distribución de Poisson
+drop.scope - Calcular los cambios permitidos al agregar o eliminar una fórmula
+drop.terms - Modificar objetos de términos
+drop1 - Agregar o eliminar todos los términos únicos posibles a un modelo
+dsignrank - Distribución de la estadística de rango con signo de Wilcoxon
+dt - La distribución t de Student
+dummy.coef - Extraer coeficientes en la codificación original
+dummy.coef.lm - Extraer coeficientes en la codificación original
+dunif - La distribución uniforme
+dweibull - La distribución Weibull
+dwilcox - Distribución de la estadística de suma de rangos de Wilcoxon
+ecdf - Función de distribución acumulativa empírica
+eff.aovlist - Eficiencias informáticas del análisis de varianza multiestrato
+effects - Efectos del modelo ajustado
+embed - Incrustar una serie temporal
+end - Codificar los tiempos terminales de series temporales
+Error - Ajustar un modelo de análisis de varianza
+estVar - Matriz SSD y matriz de varianza estimada en modelos multivariados
+expand.model.frame - Agregar nuevas variables a un marco modelo
+Exponential - La distribución exponencial
+extractAIC - Extraer AIC de un modelo ajustado
+factanal - Análisis factorial
+factor.scope - Calcular los cambios permitidos al agregar o eliminar una fórmula
+family - Objetos familiares para modelos
+family.glm - Acceso a ajustes de modelos lineales generalizados
+family.lm - Acceso a ajustes de modelo lineal
+FDist - La distribución F
+fft - Transformada Rápida y Discreta de Fourier (FFT)
+filter - Filtrado lineal en una serie temporal
+fisher.test - Prueba exacta de Fisher para datos de recuento
+fitted.kmeans - Agrupación de K-medias
+fitted.values - Extraer valores ajustados del modelo
+fivenum - Resúmenes de cinco números de Tukey
+fligner.test - Prueba de Fligner-Killeen de homogeneidad de varianzas
+format.dist - Cálculo de la matriz de distancia
+format.ftable - Manipular tablas de contingencia planas
+formula - Fórmulas modelo
+formula.lm - Acceso a ajustes de modelo lineal
+formula.nls - Extraer la fórmula del modelo del objeto nls
+frequency - Tiempos de muestreo de series temporales
+friedman.test - Prueba de suma de rangos de Friedman
+ftable - Tablas de contingencia planas
+ftable.formula - Notación de fórmulas para tablas de contingencia planas
+Gamma - Objetos familiares para modelos
+GammaDist - La distribución gamma
+gaussian - Objetos familiares para modelos
+Geometric - La distribución geométrica
+getCall - Actualizar y reajustar una llamada modelo
+getInitial - Obtenga estimaciones de parámetros iniciales
+get_all_vars - Extracción del marco del modelo a partir de una fórmula o ajuste
+glm - Ajuste de modelos lineales generalizados
+glm.control - Auxiliar para el control del racor GLM
+hasTsp - Atributo Tsp de objetos similares a series temporales
+hat - Diagnóstico de eliminación de regresión
+hatvalues - Diagnóstico de eliminación de regresión
+hclust - Agrupación jerárquica
+heatmap - Dibujar un mapa de calor
+HoltWinters - Filtrado Holt-Winters
+Hypergeometric - La distribución hipergeométrica
+identify.hclust - Identificar grupos en un dendrograma
+influence - Diagnóstico de regresión
+influence.measures - Diagnóstico de eliminación de regresión
+integrate - Integración de funciones unidimensionales
+interaction.plot - Trama de interacción bidireccional
+inverse.gaussian - Objetos familiares para modelos
+IQR - El rango intercuartil
+is.empty.model - Probar si la fórmula de un modelo está vacía
+is.leaf - Estructuras generales de árboles
+is.mts - Objetos de series de tiempo
+is.stepfun - Funciones de paso: creación y clase
+is.ts - Objetos de series de tiempo
+is.tskernel - Suavizar objetos del kernel
+isoreg - Regresión isotónica/monótona
+KalmanForecast - Filtrado de Kalman
+KalmanLike - Filtrado de Kalman
+KalmanRun - Filtrado de Kalman
+KalmanSmooth - Filtrado de Kalman
+kernapply - Aplicar núcleo suavizante
+kernel - Suavizar objetos del kernel
+kmeans - Agrupación de K-medias
+knots - Funciones de paso: creación y clase
+kruskal.test - Prueba de suma de rangos de Kruskal-Wallis
+ks.test - Pruebas de Kolmogorov-Smirnov
+ksmooth - Regresión del kernel más suave
+labels.dendrogram - Ordenamiento o Etiquetas de las Hojas en un Dendograma
+labels.dist - Cálculo de la matriz de distancia
+labels.lm - Acceso a ajustes de modelo lineal
+labels.terms - Términos modelo
+lag - Retrasar una serie temporal
+lag.plot - Gráficos de retardo de series temporales
+line - Conexión de línea robusta
+lines.isoreg - Método de trazado para objetos isoreg
+lines.stepfun - Trazar funciones de paso
+lines.ts - Trazar objetos de series de tiempo
+listof - Una clase para listas de (partes de) ajustes de modelos
+lm - Ajuste de modelos lineales
+lm.fit - Funciones de ajuste para modelos lineales
+lm.influence - Diagnóstico de regresión
+lm.wfit - Funciones de ajuste para modelos lineales
+loadings - Cargas de impresión en análisis factorial
+loess - Ajuste de regresión polinómica local
+loess.control - Establecer parámetros para Loess
+loess.smooth - Gráfico de dispersión con curva suave ajustada por Loess
+Logistic - La Distribución Logística
+logLik - Extraer registro de probabilidad
+loglin - Ajuste de modelos log-lineales
+Lognormal - La distribución normal logarítmica
+lowess - Suavizado de diagrama de dispersión
+ls.diag - Computar diagnósticos para resultados de regresión 'lsfit'
+ls.print - Imprimir resultados de regresión 'lsfit'
+lsfit - Encuentre el ajuste de mínimos cuadrados
+mad - Desviación absoluta mediana
+mahalanobis - Distancia de Mahalanobis
+make.link - Cree un vínculo para las familias GLM
+makeARIMA - Filtrado de Kalman
+makepredictcall - Función de utilidad para una predicción segura
+makepredictcall.poly - Calcular polinomios ortogonales
+manova - Análisis multivariado de varianza
+mantelhaen.test - Prueba de chi cuadrado de Cochran-Mantel-Haenszel para datos de recuento
+mauchly.test - Prueba de esfericidad de Mauchly
+mcnemar.test - Prueba de chi-cuadrado de McNemar para datos de recuento
+median - Valor medio
+medpolish - Polaco medio (descomposición robusta bidireccional) de una matriz
+merge.dendrogram - Estructuras generales de árboles
+model.extract - Extraer componentes de un marco modelo
+model.frame - Extracción del marco del modelo a partir de una fórmula o ajuste
+model.matrix - Construir matrices de diseño
+model.offset - Extraer componentes de un marco modelo
+model.response - Extraer componentes de un marco modelo
+model.tables - Calcular tablas de resultados a partir de un ajuste del modelo Aov
+model.weights - Extraer componentes de un marco modelo
+monthplot - Trazar una subserie estacional u otra a partir de una serie temporal
+mood.test - Prueba de escala de dos muestras del estado de ánimo
+Multinomial - La distribución multinomial
+mvfft - Transformada Rápida y Discreta de Fourier (FFT)
+na.action - Acción de NA
+na.contiguous - Encuentre el tramo contiguo más largo de no NA
+na.exclude - Manejar valores faltantes en objetos
+na.fail - Manejar valores faltantes en objetos
+na.omit - Manejar valores faltantes en objetos
+na.omit.ts - Métodos para objetos de series temporales
+na.pass - Manejar valores faltantes en objetos
+napredict - Ajustar por valores faltantes
+naprint - Ajustar por valores faltantes
+naresid - Ajustar por valores faltantes
+NegBinomial - La distribución binomial negativa
+nextn - Encuentra números altamente compuestos
+nlm - Minimización no lineal
+nlminb - Optimización mediante rutinas PORT
+nls - Mínimos cuadrados no lineales
+nls.control - Controlar las iteraciones en nls.
+NLSstAsymptotic - Ajustar el modelo de regresión asintótica
+NLSstClosestX - Interpolación inversa
+NLSstLfAsymptote - Asíntota horizontal en el lado izquierdo
+NLSstRtAsymptote - Asíntota horizontal en el lado derecho
+nobs - Extraiga el número de observaciones de un ajuste.
+nobs.dendrogram - Estructuras generales de árboles
+Normal - La distribución normal
+numericDeriv - Evaluar derivados numéricamente
+offset - Incluir una compensación en una fórmula modelo
+oneway.test - Prueba de medias iguales en un diseño unidireccional
+Ops.ts - Objetos de series de tiempo
+optim - Optimización de propósito general
+optimHess - Optimización de propósito general
+optimise - Optimización unidimensional
+optimize - Optimización unidimensional
+order.dendrogram - Ordenamiento o Etiquetas de las Hojas en un Dendograma
+p.adjust - Ajustar los valores P para comparaciones múltiples
+p.adjust.methods - Ajustar los valores P para comparaciones múltiples
+pacf - Estimación de funciones de correlación y covarianza automática y cruzada
+Pair - Construir objeto de datos emparejados
+pairwise.prop.test - Comparaciones por pares para proporciones
+pairwise.t.test - Pruebas t por pares
+pairwise.table - Tabular los valores de p para comparaciones por pares
+pairwise.wilcox.test - Pruebas de suma de rangos de Wilcoxon por pares
+pbeta - La distribución Beta
+pbinom - La distribución binomial
+pbirthday - Probabilidad de coincidencias
+pcauchy - La distribución de Cauchy
+pchisq - La distribución de chi cuadrado (no central)
+pexp - La distribución exponencial
+pf - La distribución F
+pgamma - La distribución gamma
+pgeom - La distribución geométrica
+phyper - La distribución hipergeométrica
+plnorm - La distribución normal logarítmica
+plogis - La Distribución Logística
+plot.acf - Trazar funciones de autocovarianza y autocorrelación
+plot.decomposed.ts - Descomposición estacional clásica por medias móviles
+plot.dendrogram - Estructuras generales de árboles
+plot.density - Método de trazado para la estimación de la densidad del grano
+plot.ecdf - Función de distribución acumulativa empírica
+plot.hclust - Agrupación jerárquica
+plot.HoltWinters - Función de trazado para objetos HoltWinters
+plot.isoreg - Método de trazado para objetos isoreg
+plot.lm - Trazar diagnóstico para un objeto 'lm'
+plot.ppr - Trazar funciones de cresta para el ajuste de regresión de búsqueda de proyección
+plot.prcomp - Análisis de componentes principales
+plot.princomp - Análisis de componentes principales
+plot.profile.nls - Trazar un objeto perfil.nls
+plot.spec - Trazar densidades espectrales
+plot.spec.coherency - Trazar densidades espectrales
+plot.stepfun - Trazar funciones de paso
+plot.stl - Métodos para objetos STL
+plot.ts - Trazar objetos de series de tiempo
+plot.tskernel - Suavizar objetos del kernel
+pnbinom - La distribución binomial negativa
+pnorm - La distribución normal
+Poisson - La distribución de Poisson
+poisson - Objetos familiares para modelos
+poisson.test - Pruebas exactas de Poisson
+poly - Calcular polinomios ortogonales
+polym - Calcular polinomios ortogonales
+power - Crear un objeto de enlace de poder
+power.anova.test - Cálculos de potencia para análisis unidireccional equilibrado de pruebas de varianza
+power.prop.test - Cálculos de potencia para pruebas de proporciones de dos muestras
+power.t.test - Cálculos de potencia para pruebas t de una y dos muestras.
+PP.test - Prueba de Phillips-Perron para raíces unitarias
+ppoints - Ordenadas para el trazado de probabilidad
+ppois - La distribución de Poisson
+ppr - Regresión de búsqueda de proyección
+prcomp - Análisis de componentes principales
+predict - Predicciones del modelo
+predict.ar - Ajustar modelos autorregresivos a series temporales
+predict.Arima - El pronóstico de ARIMA encaja
+predict.arima0 - Modelado ARIMA de series temporales - Versión preliminar
+predict.glm - Método de predicción para ajustes GLM
+predict.HoltWinters - Función de predicción para modelos Holt-Winters ajustados
+predict.lm - Método de predicción para ajustes de modelos lineales
+predict.loess - Predecir curva o superficie de Loess
+predict.nls - Predicción a partir de ajustes de mínimos cuadrados no lineales
+predict.poly - Calcular polinomios ortogonales
+predict.prcomp - Análisis de componentes principales
+predict.princomp - Análisis de componentes principales
+predict.smooth.spline - Predecir a partir del ajuste de spline suavizado
+predict.StructTS - Ajustar series temporales estructurales
+preplot - Cálculos previos para un objeto de trazado
+princomp - Análisis de componentes principales
+print.aov - Ajustar un modelo de análisis de varianza
+print.ar - Ajustar modelos autorregresivos a series temporales
+print.arima0 - Modelado ARIMA de series temporales - Versión preliminar
+print.dendrogram - Estructuras generales de árboles
+print.dist - Cálculo de la matriz de distancia
